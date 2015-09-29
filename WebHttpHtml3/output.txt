@@ -1,0 +1,127 @@
+Virtual User Script started at : 29.09.2015 18:02:29
+Starting action vuser_init.
+Web Turbo Replay of LoadRunner 12.0.0 for Windows 7; build 2739 (Nov 30 2014 23:13:05)  	[MsgId: MMSG-27143]
+Run mode: HTML  	[MsgId: MMSG-26993]
+Run-Time Settings file: "D:\Users\User\Documents\VuGen\Scripts\WebHttpHtml3\\default.cfg"  	[MsgId: MMSG-27141]
+vuser_init.c(5): Notify: Transaction "Вход на сайт" started.
+vuser_init.c(7): web_reg_find started  	[MsgId: MMSG-26355]
+vuser_init.c(7): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+vuser_init.c(10): web_url("yandex.ru") started  	[MsgId: MMSG-26355]
+vuser_init.c(10): Redirecting "http://yandex.ru/" (redirection depth is 0)  	[MsgId: MMSG-26694]
+vuser_init.c(10): To location "http://www.yandex.ru/"  	[MsgId: MMSG-26693]
+vuser_init.c(10): Found resource "http://yastatic.net/www/_/5/x/lp93tlgEwFTGgH8VhncoaOJWs.css" in HTML "http://www.yandex.ru/"  	[MsgId: MMSG-26659]
+vuser_init.c(10): Found resource "http://yastatic.net/lego/_/La6qi18Z8LwgnZdsAr1qy1GwCwo.gif" in HTML "http://www.yandex.ru/"  	[MsgId: MMSG-26659]
+vuser_init.c(10): Found resource "http://yabs.yandex.ru/count/I5et4KPsrHu40002gQ00822Eje2gO0LHbGAR1cbQYB-z8GS7feG9YhUPpkq2gWAbezfi196yq4ba1fE53K6Z0Qxv6jb5MXha80Mn0S7__________m_5Zm_I__________yFq___________3taC" in HTML "http://www.yandex.ru/"  	[MsgId: MMSG-26659]
+vuser_init.c(10): Found resource "http://yabs.yandex.ru/count/I5et4Px_nLK40002gQ00822Eje2gO0LHbGgR0MsEYBtn8GS7feG9Yh_LYOC2gWEbgpjQ1P6yq4ba1fE53K6Z0Qxv6jb5MXha80Mn0S7__________m_5Zm_I__________yFq___________3taC" in HTML "http://www.yandex.ru/"  	[MsgId: MMSG-26659]
+vuser_init.c(10): Found resource "https://mc.yandex.ru/metrika/watch.js" in HTML "http://www.yandex.ru/"  	[MsgId: MMSG-26659]
+vuser_init.c(10): Found resource "http://yabs.yandex.ru/count/I5et4H06SXO40000gQ00022Eje2gO0LHaRpGIMG6auKDhlaQsKLQ6kGW1S7__________mzv1G00=m1T6uPK2cmPfMegtcSxj0gMZscm4YB-z8GS7feG9iG75Zm_I__________yFq___________3ti6=WDg6cvKAcm5jZeg_rOc30gMhEre5YBtn8GS7feG9iG75Zm_I__________yFq___________3ti6?wmode=0" in HTML "http://www.yandex.ru/"  	[MsgId: MMSG-26659]
+vuser_init.c(10): Found resource "http://yastatic.net/jquery/1.8.3/jquery.min.js" in HTML "http://www.yandex.ru/"  	[MsgId: MMSG-26659]
+vuser_init.c(10): Found resource "http://yastatic.net/www/2.524/white/pages/bender/_bender.ru.templates.js" in HTML "http://www.yandex.ru/"  	[MsgId: MMSG-26659]
+vuser_init.c(10): Redirecting "http://yabs.yandex.ru/count/I5et4KPsrHu40002gQ00822Eje2gO0LHbGAR1cbQYB-z8GS7feG9YhUPpkq2gWAbezfi196yq4ba1fE53K6Z0Qxv6jb5MXha80Mn0S7__________m_5Zm_I__________yFq___________3taC" (redirection depth is 0)  	[MsgId: MMSG-26694]
+vuser_init.c(10): To location "http://yabs.yandex.ru/resource/CZaANrQ4_HBxlaqI4ygxQk_banana_20141031_smart_watch.png"  	[MsgId: MMSG-26693]
+vuser_init.c(10): Redirecting "http://yabs.yandex.ru/count/I5et4Px_nLK40002gQ00822Eje2gO0LHbGgR0MsEYBtn8GS7feG9Yh_LYOC2gWEbgpjQ1P6yq4ba1fE53K6Z0Qxv6jb5MXha80Mn0S7__________m_5Zm_I__________yFq___________3taC" (redirection depth is 0)  	[MsgId: MMSG-26694]
+vuser_init.c(10): To location "http://yabs.yandex.ru/resource/CXbACNS1xLfuwhc_IbTVP5_banana_20141031_60-60.png"  	[MsgId: MMSG-26693]
+vuser_init.c(10): Registered web_reg_find successful for "Text=Яндекс" (count=11)  	[MsgId: MMSG-26364]
+vuser_init.c(10): web_url("yandex.ru") was successful, 254468 body bytes, 5645 header bytes  	[MsgId: MMSG-26386]
+vuser_init.c(18): Notify: Transaction "Вход на сайт" ended with a "Pass" status (Duration: 0,4403 Wasted Time: 0,1463).
+vuser_init.c(20): Notify: Transaction "Открытие страницы авторизации" started.
+vuser_init.c(22): web_reg_find started  	[MsgId: MMSG-26355]
+vuser_init.c(22): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+vuser_init.c(25): web_url("mail.yandex.ru") started  	[MsgId: MMSG-26355]
+vuser_init.c(25): Found resource "https://yastatic.net/mail/host-root2/3.17.1300/static/promos/_mobile.css" in HTML "https://mail.yandex.ru/"  	[MsgId: MMSG-26659]
+vuser_init.c(25): Found resource "https://mail.yandex.ru/for/d/pdd.jsx?0.6182341604365363&ckey=u354dbf3227e0e79e5d3c95a7b4aec2ed&new" in HTML "https://mail.yandex.ru/"  	[MsgId: MMSG-26659]
+vuser_init.c(25): Found resource "https://yastatic.net/mail/host-root2/3.17.1300/static/js/_modernizr.js" in HTML "https://mail.yandex.ru/"  	[MsgId: MMSG-26659]
+vuser_init.c(25): Found resource "https://yastatic.net/lego/_/X31pO5JJJKEifJ7sfvuf3mGeD_8.png" in HTML "https://mail.yandex.ru/"  	[MsgId: MMSG-26659]
+vuser_init.c(25): Found resource "https://yastatic.net/jquery/1.11.0/jquery.min.js" in HTML "https://mail.yandex.ru/"  	[MsgId: MMSG-26659]
+vuser_init.c(25): Found resource "https://yastatic.net/lego/2.3-14/common/js/_common.js" in HTML "https://mail.yandex.ru/"  	[MsgId: MMSG-26659]
+vuser_init.c(25): Found resource "https://yastatic.net/share/share.js" in HTML "https://mail.yandex.ru/"  	[MsgId: MMSG-26659]
+vuser_init.c(25): Found resource "https://yastatic.net/mail/host-root2/3.17.1300/static/js/_index.ru.js" in HTML "https://mail.yandex.ru/"  	[MsgId: MMSG-26659]
+vuser_init.c(25): Registered web_reg_find successful for "Text=Яндекс.Почта — бесплатная электронная почта" (count=1)  	[MsgId: MMSG-26364]
+vuser_init.c(25): web_url("mail.yandex.ru") was successful, 157448 body bytes, 4689 header bytes  	[MsgId: MMSG-26386]
+vuser_init.c(33): web_reg_find started  	[MsgId: MMSG-26355]
+vuser_init.c(33): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+vuser_init.c(36): web_url("lite") started  	[MsgId: MMSG-26355]
+vuser_init.c(36): Redirecting "https://mail.yandex.ru/lite" (redirection depth is 0)  	[MsgId: MMSG-26694]
+vuser_init.c(36): To location "https://mail.yandex.ru/lite/"  	[MsgId: MMSG-26693]
+vuser_init.c(36): Redirecting "https://mail.yandex.ru/lite/" (redirection depth is 1)  	[MsgId: MMSG-26694]
+vuser_init.c(36): To location "https://mail.yandex.ru/lite/inbox"  	[MsgId: MMSG-26693]
+vuser_init.c(36): Redirecting "https://mail.yandex.ru/lite/inbox" (redirection depth is 2)  	[MsgId: MMSG-26694]
+vuser_init.c(36): To location "https://passport.yandex.ru/passport?mode=auth&retpath=https%3A%2F%2Fmail.yandex.ru%2Flite%2Finbox"  	[MsgId: MMSG-26693]
+vuser_init.c(36): Found resource "https://yastatic.net/passport-frontend/0.2.24-20/public/css/auth.enter.css" in HTML "https://passport.yandex.ru/passport?mode=auth&retpath=https%3A%2F%2Fmail.yandex.ru%2Flite%2Finbox"  	[MsgId: MMSG-26659]
+vuser_init.c(36): Found resource "https://yastatic.net/jquery/1.9.1/jquery.min.js" in HTML "https://passport.yandex.ru/passport?mode=auth&retpath=https%3A%2F%2Fmail.yandex.ru%2Flite%2Finbox"  	[MsgId: MMSG-26659]
+vuser_init.c(36): Found resource "https://yastatic.net/passport-frontend/0.2.24-20/public/js/auth.enter.ru.js" in HTML "https://passport.yandex.ru/passport?mode=auth&retpath=https%3A%2F%2Fmail.yandex.ru%2Flite%2Finbox"  	[MsgId: MMSG-26659]
+vuser_init.c(36): Registered web_reg_find successful for "Text=Авторизация" (count=1)  	[MsgId: MMSG-26364]
+vuser_init.c(36): web_url("lite") was successful, 218918 body bytes, 3962 header bytes  	[MsgId: MMSG-26386]
+vuser_init.c(44): Notify: Transaction "Открытие страницы авторизации" ended with a "Pass" status (Duration: 0,6569 Wasted Time: 0,0388).
+vuser_init.c(46): Notify: Transaction "Авторизация" started.
+vuser_init.c(48): web_reg_find started  	[MsgId: MMSG-26355]
+vuser_init.c(48): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+vuser_init.c(51): web_submit_data("passport") started  	[MsgId: MMSG-26355]
+vuser_init.c(51): Redirecting "https://passport.yandex.ru/passport?mode=auth" (redirection depth is 0)  	[MsgId: MMSG-26694]
+vuser_init.c(51): To location "https://passport.yandex.ru/auth/finish/?track_id=0734f858a95fd520f10147f275c8877087"  	[MsgId: MMSG-26693]
+vuser_init.c(51): Redirecting "https://passport.yandex.ru/auth/finish/?track_id=0734f858a95fd520f10147f275c8877087" (redirection depth is 1)  	[MsgId: MMSG-26694]
+vuser_init.c(51): To location "https://pass.yandex.ru/login?retpath=https%3A%2F%2Fmail.yandex.ru%2Flite%2Finbox&ncrnd=203044"  	[MsgId: MMSG-26693]
+vuser_init.c(51): Redirecting "https://pass.yandex.ru/login?retpath=https%3A%2F%2Fmail.yandex.ru%2Flite%2Finbox&ncrnd=203044" (redirection depth is 2)  	[MsgId: MMSG-26694]
+vuser_init.c(51): To location "https://mail.yandex.ru/lite/inbox?ncrnd=70"  	[MsgId: MMSG-26693]
+vuser_init.c(51): Found resource "https://yastatic.net/mail/pda2/1.33.351/pages/messages/_messages_lite.css" in HTML "https://mail.yandex.ru/lite/inbox?ncrnd=70"  	[MsgId: MMSG-26659]
+vuser_init.c(51): Found resource "https://yandex.st/lego/_/X31pO5JJJKEifJ7sfvuf3mGeD_8.png" in HTML "https://mail.yandex.ru/lite/inbox?ncrnd=70"  	[MsgId: MMSG-26659]
+vuser_init.c(51): Found resource "https://upics.yandex.net/334026821/small" in HTML "https://mail.yandex.ru/lite/inbox?ncrnd=70"  	[MsgId: MMSG-26659]
+vuser_init.c(51): Found resource "https://yastatic.net/mail/pda2/1.33.351/blocks/b-messages/message/b-messages__message_important.gif" in HTML "https://mail.yandex.ru/lite/inbox?ncrnd=70"  	[MsgId: MMSG-26659]
+vuser_init.c(51): Found resource "https://yastatic.net/mail/pda2/1.33.351/blocks/b-messages/message/b-messages__message_new.gif" in HTML "https://mail.yandex.ru/lite/inbox?ncrnd=70"  	[MsgId: MMSG-26659]
+vuser_init.c(51): Found resource "https://yastatic.net/mail/pda2/1.33.351/blocks/b-messages/message/b-messages__message_replied.gif" in HTML "https://mail.yandex.ru/lite/inbox?ncrnd=70"  	[MsgId: MMSG-26659]
+vuser_init.c(51): Found resource "https://yastatic.net/jquery/1.4.4/jquery.min.js" in HTML "https://mail.yandex.ru/lite/inbox?ncrnd=70"  	[MsgId: MMSG-26659]
+vuser_init.c(51): Found resource "https://yastatic.net/mail/pda2/1.33.351/js/_lite.js" in HTML "https://mail.yandex.ru/lite/inbox?ncrnd=70"  	[MsgId: MMSG-26659]
+vuser_init.c(51): Found resource "https://yastatic.net/mail/pda2/1.33.351/js/pages/_messages.js" in HTML "https://mail.yandex.ru/lite/inbox?ncrnd=70"  	[MsgId: MMSG-26659]
+vuser_init.c(51): Redirecting "https://upics.yandex.net/334026821/small" (redirection depth is 0)  	[MsgId: MMSG-26694]
+vuser_init.c(51): To location "https://avatars.mds.yandex.net/get-yapic/0/0-0/islands-25"  	[MsgId: MMSG-26693]
+vuser_init.c(51): Registered web_reg_find successful for "Text=Входящие" (count=3)  	[MsgId: MMSG-26364]
+vuser_init.c(51): web_submit_data("passport") was successful, 40262 body bytes, 8628 header bytes  	[MsgId: MMSG-26386]
+vuser_init.c(63): Notify: Transaction "Авторизация" ended with a "Pass" status (Duration: 0,6842 Wasted Time: 0,0073).
+Ending action vuser_init.
+Running Vuser...
+Starting iteration 1.
+Warning -27077: The "vuser_init" section contains web function(s) when the "Simulate a new user on each iteration" Run-Time Setting is ON.  This may produce unpredictable results with multiple iterations  	[MsgId: MWAR-27077]
+Maximum number of concurrent connections per server: 6  	[MsgId: MMSG-26989]
+Starting action Action.
+Action.c(9): Notify: Transaction "Выбор непрочитанных сообщений с 'Task 1' в теме" started.
+Action.c(11): web_reg_find started  	[MsgId: MMSG-26355]
+Action.c(11): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(14): web_reg_save_param_regexp started  	[MsgId: MMSG-26355]
+Action.c(14): Registering web_reg_save_param_regexp was successful  	[MsgId: MMSG-26390]
+Action.c(24): web_url("unread") started  	[MsgId: MMSG-26355]
+Action.c(24): Resource "https://yastatic.net/mail/pda2/1.33.351/pages/messages/_messages_lite.css" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(24): Resource "https://yandex.st/lego/_/X31pO5JJJKEifJ7sfvuf3mGeD_8.png" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(24): Found resource "https://upics.yandex.net/334026821/small" in HTML "https://mail.yandex.ru/lite/unread"  	[MsgId: MMSG-26659]
+Action.c(24): Resource "https://yastatic.net/mail/pda2/1.33.351/blocks/b-messages/message/b-messages__message_important.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(24): Resource "https://yastatic.net/mail/pda2/1.33.351/blocks/b-messages/message/b-messages__message_new.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(24): Resource "https://yastatic.net/jquery/1.4.4/jquery.min.js" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(24): Resource "https://yastatic.net/mail/pda2/1.33.351/js/_lite.js" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(24): Resource "https://yastatic.net/mail/pda2/1.33.351/js/pages/_messages.js" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(24): Redirecting "https://upics.yandex.net/334026821/small" (redirection depth is 0)  	[MsgId: MMSG-26694]
+Action.c(24): To location "https://avatars.mds.yandex.net/get-yapic/0/0-0/islands-25"  	[MsgId: MMSG-26693]
+Action.c(24): Resource "https://avatars.mds.yandex.net/get-yapic/0/0-0/islands-25" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(24): Warning -35049: No match found for the requested parameter "MESSAGE_ID". Check whether the requested regular expression exists in the response data  	[MsgId: MWAR-35049]
+Action.c(24): Registered web_reg_find successful for "Text=Входящие" (count=2)  	[MsgId: MMSG-26364]
+Action.c(24): web_url("unread") highest severity level was "warning", 5469 body bytes, 789 header bytes  	[MsgId: MMSG-26388]
+Action.c(34): Число непрочитанных сообщений с 'Task 1' в теме = 0
+Action.c(36): Notify: Transaction "Выбор непрочитанных сообщений с 'Task 1' в теме" ended with a "Pass" status (Duration: 0,2704 Wasted Time: 0,0026).
+Action.c(38): Notify: Transaction "Ответ на сообщения в цикле" started.
+Action.c(88): Notify: Transaction "Ответ на сообщения в цикле" ended with a "Pass" status (Duration: 0,0001).
+Ending action Action.
+Ending iteration 1.
+Ending Vuser...
+Starting action vuser_end.
+vuser_end.c(3): Notify: Transaction "Выход" started.
+vuser_end.c(5): web_url("passport_2") started  	[MsgId: MMSG-26355]
+vuser_end.c(5): Redirecting "https://passport.yandex.ru/passport?mode=logout&yu=5827752021443444761Resource=0" (redirection depth is 0)  	[MsgId: MMSG-26694]
+vuser_end.c(5): To location "https://passport.yandex.ru/passport?mode=passport&ncrnd=191772"  	[MsgId: MMSG-26693]
+vuser_end.c(5): Found resource "https://yastatic.net/passport/2.13/css/_pass.css" in HTML "https://passport.yandex.ru/passport?mode=passport&ncrnd=191772"  	[MsgId: MMSG-26659]
+vuser_end.c(5): Found resource "https://yastatic.net/jquery/1.7.2/jquery.min.js" in HTML "https://passport.yandex.ru/passport?mode=passport&ncrnd=191772"  	[MsgId: MMSG-26659]
+vuser_end.c(5): Found resource "https://yastatic.net/passport/2.13/js/_passport.ru.js" in HTML "https://passport.yandex.ru/passport?mode=passport&ncrnd=191772"  	[MsgId: MMSG-26659]
+vuser_end.c(5): Resource "https://yastatic.net/lego/_/X31pO5JJJKEifJ7sfvuf3mGeD_8.png" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+vuser_end.c(5): Found resource "https://yastatic.net/lego/_/La6qi18Z8LwgnZdsAr1qy1GwCwo.gif" in HTML "https://passport.yandex.ru/passport?mode=passport&ncrnd=191772"  	[MsgId: MMSG-26659]
+vuser_end.c(5): Found resource "https://clck.yandex.ru/click/dtype=stred/pid=8/cid=2328/path=Passport.passport/rnd=165851/*https://passport.yandex.ru" in HTML "https://passport.yandex.ru/passport?mode=passport&ncrnd=191772"  	[MsgId: MMSG-26659]
+vuser_end.c(5): web_url("passport_2") was successful, 99792 body bytes, 3170 header bytes  	[MsgId: MMSG-26386]
+vuser_end.c(13): Notify: Transaction "Выход" ended with a "Pass" status (Duration: 0,2046 Wasted Time: 0,0101).
+Ending action vuser_end.
+Vuser Terminated.
