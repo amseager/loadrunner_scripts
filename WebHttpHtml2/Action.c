@@ -6,6 +6,15 @@ Action()
 		web_reg_find("text=Новое письмо — Яндекс.Почта", 
 			LAST);
 	
+		//Сохраняем yandex_uid для выхода из почты в дальнейшем
+		web_reg_save_param_ex(
+			"ParamName=LOGOUT_ID",
+			"LB=mode=logout&amp;yu=",
+			"RB=&amp;",
+			SEARCH_FILTERS,
+			"Scope=BODY",
+			LAST);
+	
 		web_url("retpath=inbox", 
 			"URL=https://mail.yandex.ru/lite/compose/", 
 			"Resource=0", 
@@ -18,7 +27,7 @@ Action()
 	
 	lr_start_transaction("Отправка письма");
 	
-		web_submit_form("create_message.xml", 
+		web_submit_form("compose-send", 
 			"Snapshot=t14.inf", 
 			ITEMDATA, 
 			"Name=request", "Value=", ENDITEM, 

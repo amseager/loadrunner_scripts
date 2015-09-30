@@ -7,13 +7,13 @@ NewFunctionHeader=1
 RunType=cci
 ActionLogicExt=action_logic
 MajorVersion=12
-MinorVersion=2
+MinorVersion=50
 LastActiveAction=Action
 ActiveTypes=QTWeb
 GenerateTypes=QTWeb
 AdditionalTypes=QTWeb
 DevelopTool=Vugen
-LastModifyVer=12.2.0.0
+LastModifyVer=12.50.0.0
 ParamLeftBrace={
 ParamRightBrace=}
 ScriptLanguage=C
@@ -32,13 +32,13 @@ Default Profile=default.cfg
 [ExtraFiles]
 globals.h=
 [Modified Actions]
-vuser_init=1
+vuser_init=0
 Action=1
 vuser_end=1
 [Recorded Actions]
-vuser_init=1
-Action=1
-vuser_end=1
+vuser_init=0
+Action=0
+vuser_end=0
 [Replayed Actions]
 vuser_init=1
 Action=1

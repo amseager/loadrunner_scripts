@@ -13,16 +13,25 @@ Action()
 			LAST);
 		
 		//Сохраняем id всех непрочитанных сообщений
-		
-		web_reg_save_param_ex("ParamName=MESSAGE_ID", 
-	        "NOTFOUND=WARNING", 	//На случай, если нет непрочитанных сообщений
-		    "LB/IC=\<span class=\"b-messages__message__left\" href=\"\/lite\/message\/",
-			"RB/IC=\/new\"\>",
+		web_reg_save_param_ex(
+			"ParamName=MESSAGE_ID",
+		    "LB/IC=<span class=\"b-messages__message__left\" href=\"/lite/message/",
+			"RB/IC=/new\">",
+			"NotFound=warning", 	//На случай, если нет непрочитанных сообщений
 			"Ordinal=all",
 			SEARCH_FILTERS,
 		  	"Scope=body", 
 		  	LAST);
 		
+		//Сохраняем yandex_uid для выхода из почты в дальнейшем
+		web_reg_save_param_ex(
+			"ParamName=LOGOUT_ID",
+			"LB=mode=logout&amp;yu=",
+			"RB=&amp;",
+			SEARCH_FILTERS,
+			"Scope=BODY",
+			LAST);
+
 		web_url("unread", 
 			"URL=https://mail.yandex.ru/lite/unread", 
 			"Resource=0", 
@@ -45,19 +54,11 @@ Action()
 		    sprintf(arrayParamName, "{MESSAGE_ID_%d}", x);
 		    
 		    lr_save_string(lr_eval_string(arrayParamName), "id");
-		
-		 	//Отладочная печать
-		    
-		    lr_output_message ("%s: %s",
-		        arrayParamName,
-		        lr_eval_string(arrayParamName)); 
-		      
-		    
-		    //Открытие письма
-		
+      
+			//Открытие письма
 			web_reg_find("Text=Входящие", 
 				LAST);
-		
+			
 			web_url("{id}/new", 
 				"URL=https://mail.yandex.ru/lite/message/{id}/new", 
 				"Resource=0", 
@@ -65,13 +66,11 @@ Action()
 				"Snapshot=t220.inf", 
 				"Mode=HTML", 
 				LAST);
-		
 		    
 			//Возврат во входящие
-			
 			web_reg_find("Text=Входящие", 
-				LAST);
-		
+				LAST);		
+			
 			web_url("inbox", 
 				"URL=https://mail.yandex.ru/lite/inbox", 
 				"Resource=0", 
@@ -84,6 +83,5 @@ Action()
 
 	lr_end_transaction("Просмотр непрочитанных сообщений в цикле", LR_AUTO);
 	
-
 	return 0;
 }
