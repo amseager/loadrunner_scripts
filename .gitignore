@@ -25,6 +25,7 @@ logfile.log
 mdrv_cmd.txt
 options.txt
 pre_cci.c
+*.log
 
 # Files created during editing in VuGen:
 Breakpoints.xml
