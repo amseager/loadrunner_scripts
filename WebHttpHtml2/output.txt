@@ -1,4 +1,4 @@
-Virtual User Script started at : 30.09.2015 13:15:38
+Virtual User Script started at : 30.09.2015 15:51:55
 Starting action vuser_init.
 Web Turbo Replay of LoadRunner 12.50.0 for Windows 7; build 1096 (сен 30 2015 16:55:24)  	[MsgId: MMSG-27143]
 Run mode: HTML  	[MsgId: MMSG-26993]
@@ -13,27 +13,27 @@ vuser_init.c(10): To location "http://www.yandex.ru/"  	[MsgId: MMSG-26693]
 vuser_init.c(10): Redirecting "http://www.yandex.ru/" (redirection depth is 1)  	[MsgId: MMSG-26694]
 vuser_init.c(10): To location "https://www.yandex.ru/"  	[MsgId: MMSG-26693]
 vuser_init.c(10): Found resource "https://yastatic.net/lego/_/La6qi18Z8LwgnZdsAr1qy1GwCwo.gif" in HTML "https://www.yandex.ru/"  	[MsgId: MMSG-26659]
-vuser_init.c(10): Found resource "https://yabs.yandex.ru/count/Rtr-cLBME4040002gP0088wxPBjW1L6L0fi6QLg8jayY1mUcX0cAlG9L7mEg0gMlumG6aRpGIMG6auKDGQxo46elO3Rq80Mn0Rlxv3dR4J6Sl0J1__________yFnOyFql__________3zF__________mzu3G00" in HTML "https://www.yandex.ru/"  	[MsgId: MMSG-26659]
-vuser_init.c(10): Found resource "https://yabs.yandex.ru/count/Rtr-cHQHHfa40002gP0088wxPBjW1L6L2fi1ROw8lV4X1mUcX0cAiTQ9WmAg0wMhEre5aRpGIMG6auKDGQxo46elO3Rq80Mn0Rlxv3dR4J6Sl0J1__________yFnOyFql__________3zF__________mzu3G00" in HTML "https://www.yandex.ru/"  	[MsgId: MMSG-26659]
+vuser_init.c(10): Found resource "https://yabs.yandex.ru/count/LRzGv7zRPWi40002gP0088wzhhrW1L6L0fi6QLg8lzWX1mUcX0cAksXJ4mEg0gMWLzO4aRpGIMG6auKDGQxuwCyiKcNs80Mn0RlzxaXLy9hroWF1__________yFnOyFql__________3zF__________mzu3G00" in HTML "https://www.yandex.ru/"  	[MsgId: MMSG-26659]
+vuser_init.c(10): Found resource "https://yabs.yandex.ru/count/LRzGv5AHtlm40002gP0088wzhhrW1L6L2fi1ROw8lV4X1mUcX0cAiDQ9WmAg0wMhEre5aRpGIMG6auKDGQxuwCyiKcNs80Mn0RlzxaXLy9hroWF1__________yFnOyFql__________3zF__________mzu3G00" in HTML "https://www.yandex.ru/"  	[MsgId: MMSG-26659]
 vuser_init.c(10): Found resource "https://home.yastatic.net/morda-logo/i/afisha_color_62.png" in HTML "https://www.yandex.ru/"  	[MsgId: MMSG-26659]
 vuser_init.c(10): Found resource "https://yastatic.net/jquery/1.8.3/jquery.min.js" in HTML "https://www.yandex.ru/"  	[MsgId: MMSG-26659]
 vuser_init.c(10): Found resource "https://yastatic.net/www/2.524/rapido/pages/big/_big.ru.templates.js" in HTML "https://www.yandex.ru/"  	[MsgId: MMSG-26659]
 vuser_init.c(10): Found resource "https://yastatic.net/www/_/7/g/w0Fd3FjBXo7Wvs6oJiqfeSEr0.js" in HTML "https://www.yandex.ru/"  	[MsgId: MMSG-26659]
 vuser_init.c(10): Found resource "https://mc.yandex.ru/metrika/watch.js" in HTML "https://www.yandex.ru/"  	[MsgId: MMSG-26659]
-vuser_init.c(10): Found resource "https://yabs.yandex.ru/count/Rtr-cQTEZj840000Zhjaks05KP6yq4ba1fE53Qxo46elO3Rq80Mx--Gvsn4ndBm4mV__________3tu5=4-edi9K2cmPfMegz0bKV0wMlumG6YBPF8WS7feG9iG75Zm_I__________yFq___________3ti6=zdE25PKAcm5jZegnrec30gMhEre5YBtn8GS7feG9iG75Zm_I__________yFq___________3ti6?wmode=0" in HTML "https://www.yandex.ru/"  	[MsgId: MMSG-26659]
-vuser_init.c(10): Redirecting "https://yabs.yandex.ru/count/Rtr-cHQHHfa40002gP0088wxPBjW1L6L2fi1ROw8lV4X1mUcX0cAiTQ9WmAg0wMhEre5aRpGIMG6auKDGQxo46elO3Rq80Mn0Rlxv3dR4J6Sl0J1__________yFnOyFql__________3zF__________mzu3G00" (redirection depth is 0)  	[MsgId: MMSG-26694]
+vuser_init.c(10): Found resource "https://yabs.yandex.ru/count/LRzGv9LIWQu40000ZhsklM05KP6yq4ba1fE53QxuwCyiKcNs80Mx_Uv8LV2QzSe3mV__________3tu5=Np41LvK2cmPfMegxQ5CJ0wMWLzO4YB_O8GS7feG9iG75Zm_I__________yFq___________3ti6=fekopvKAcm5jZegmrec30gMhEre5YBtn8GS7feG9iG75Zm_I__________yFq___________3ti6?wmode=0" in HTML "https://www.yandex.ru/"  	[MsgId: MMSG-26659]
+vuser_init.c(10): Redirecting "https://yabs.yandex.ru/count/LRzGv5AHtlm40002gP0088wzhhrW1L6L2fi1ROw8lV4X1mUcX0cAiDQ9WmAg0wMhEre5aRpGIMG6auKDGQxuwCyiKcNs80Mn0RlzxaXLy9hroWF1__________yFnOyFql__________3zF__________mzu3G00" (redirection depth is 0)  	[MsgId: MMSG-26694]
 vuser_init.c(10): To location "https://yabs.yandex.ru/resource/CXbACNS1xLfuwhc_IbTVP5_banana_20141031_60-60.png"  	[MsgId: MMSG-26693]
-vuser_init.c(10): Redirecting "https://yabs.yandex.ru/count/Rtr-cLBME4040002gP0088wxPBjW1L6L0fi6QLg8jayY1mUcX0cAlG9L7mEg0gMlumG6aRpGIMG6auKDGQxo46elO3Rq80Mn0Rlxv3dR4J6Sl0J1__________yFnOyFql__________3zF__________mzu3G00" (redirection depth is 0)  	[MsgId: MMSG-26694]
-vuser_init.c(10): To location "https://yabs.yandex.ru/resource/S72f_If2p2qLwiY_QLBpf_banana_20141031_teaser2.png"  	[MsgId: MMSG-26693]
+vuser_init.c(10): Redirecting "https://yabs.yandex.ru/count/LRzGv7zRPWi40002gP0088wzhhrW1L6L0fi6QLg8lzWX1mUcX0cAksXJ4mEg0gMWLzO4aRpGIMG6auKDGQxuwCyiKcNs80Mn0RlzxaXLy9hroWF1__________yFnOyFql__________3zF__________mzu3G00" (redirection depth is 0)  	[MsgId: MMSG-26694]
+vuser_init.c(10): To location "https://yabs.yandex.ru/resource/CNQFYjt7nmId0Iot3YY61k_banana_20141031_plane.png"  	[MsgId: MMSG-26693]
 vuser_init.c(10): Registered web_reg_find successful for "Text=Яндекс" (count=16)  	[MsgId: MMSG-26364]
-vuser_init.c(10): web_url("yandex.ru") was successful, 278726 body bytes, 6414 header bytes  	[MsgId: MMSG-26386]
-vuser_init.c(18): Notify: Transaction "Вход на сайт" ended with a "Pass" status (Duration: 0,6085 Wasted Time: 0,1298).
+vuser_init.c(10): web_url("yandex.ru") was successful, 263730 body bytes, 6395 header bytes  	[MsgId: MMSG-26386]
+vuser_init.c(18): Notify: Transaction "Вход на сайт" ended with a "Pass" status (Duration: 0,8347 Wasted Time: 0,1329).
 vuser_init.c(20): Notify: Transaction "Открытие страницы авторизации" started.
 vuser_init.c(22): web_reg_find started  	[MsgId: MMSG-26355]
 vuser_init.c(22): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
 vuser_init.c(25): web_url("mail.yandex.ru") started  	[MsgId: MMSG-26355]
 vuser_init.c(25): Found resource "https://yastatic.net/mail/host-root2/3.17.1300/static/promos/_mobile.css" in HTML "https://mail.yandex.ru/"  	[MsgId: MMSG-26659]
-vuser_init.c(25): Found resource "https://mail.yandex.ru/for/d/pdd.jsx?0.7359538597237536&ckey=u848af0dadfef54ddc8c74cf421828d09&new" in HTML "https://mail.yandex.ru/"  	[MsgId: MMSG-26659]
+vuser_init.c(25): Found resource "https://mail.yandex.ru/for/d/pdd.jsx?0.8392346653508315&ckey=u7d4cdc0d42171907015ead12ab73ba94&new" in HTML "https://mail.yandex.ru/"  	[MsgId: MMSG-26659]
 vuser_init.c(25): Found resource "https://yastatic.net/mail/host-root2/3.17.1300/static/js/_modernizr.js" in HTML "https://mail.yandex.ru/"  	[MsgId: MMSG-26659]
 vuser_init.c(25): Found resource "https://yastatic.net/lego/_/X31pO5JJJKEifJ7sfvuf3mGeD_8.png" in HTML "https://mail.yandex.ru/"  	[MsgId: MMSG-26659]
 vuser_init.c(25): Found resource "https://yastatic.net/jquery/1.11.0/jquery.min.js" in HTML "https://mail.yandex.ru/"  	[MsgId: MMSG-26659]
@@ -51,12 +51,12 @@ vuser_init.c(36): Redirecting "https://mail.yandex.ru/lite/" (redirection depth 
 vuser_init.c(36): To location "https://mail.yandex.ru/lite/inbox"  	[MsgId: MMSG-26693]
 vuser_init.c(36): Redirecting "https://mail.yandex.ru/lite/inbox" (redirection depth is 2)  	[MsgId: MMSG-26694]
 vuser_init.c(36): To location "https://passport.yandex.ru/passport?mode=auth&retpath=https%3A%2F%2Fmail.yandex.ru%2Flite%2Finbox"  	[MsgId: MMSG-26693]
-vuser_init.c(36): Found resource "https://yastatic.net/passport-frontend/0.2.24-22/public/css/auth.enter.css" in HTML "https://passport.yandex.ru/passport?mode=auth&retpath=https%3A%2F%2Fmail.yandex.ru%2Flite%2Finbox"  	[MsgId: MMSG-26659]
+vuser_init.c(36): Found resource "https://yastatic.net/passport-frontend/0.2.24-23/public/css/auth.enter.css" in HTML "https://passport.yandex.ru/passport?mode=auth&retpath=https%3A%2F%2Fmail.yandex.ru%2Flite%2Finbox"  	[MsgId: MMSG-26659]
 vuser_init.c(36): Found resource "https://yastatic.net/jquery/1.9.1/jquery.min.js" in HTML "https://passport.yandex.ru/passport?mode=auth&retpath=https%3A%2F%2Fmail.yandex.ru%2Flite%2Finbox"  	[MsgId: MMSG-26659]
-vuser_init.c(36): Found resource "https://yastatic.net/passport-frontend/0.2.24-22/public/js/auth.enter.ru.js" in HTML "https://passport.yandex.ru/passport?mode=auth&retpath=https%3A%2F%2Fmail.yandex.ru%2Flite%2Finbox"  	[MsgId: MMSG-26659]
+vuser_init.c(36): Found resource "https://yastatic.net/passport-frontend/0.2.24-23/public/js/auth.enter.ru.js" in HTML "https://passport.yandex.ru/passport?mode=auth&retpath=https%3A%2F%2Fmail.yandex.ru%2Flite%2Finbox"  	[MsgId: MMSG-26659]
 vuser_init.c(36): Registered web_reg_find successful for "Text=Авторизация" (count=1)  	[MsgId: MMSG-26364]
-vuser_init.c(36): web_url("lite") was successful, 219169 body bytes, 3962 header bytes  	[MsgId: MMSG-26386]
-vuser_init.c(44): Notify: Transaction "Открытие страницы авторизации" ended with a "Pass" status (Duration: 0,8045 Wasted Time: 0,0423).
+vuser_init.c(36): web_url("lite") was successful, 219166 body bytes, 3962 header bytes  	[MsgId: MMSG-26386]
+vuser_init.c(44): Notify: Transaction "Открытие страницы авторизации" ended with a "Pass" status (Duration: 0,7056 Wasted Time: 0,0410).
 vuser_init.c(46): Notify: Transaction "Авторизация" started.
 vuser_init.c(48): web_reg_find started  	[MsgId: MMSG-26355]
 vuser_init.c(48): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
@@ -65,25 +65,25 @@ vuser_init.c(51): Notify: Parameter Substitution: parameter "LOGIN" =  "lrunnert
 vuser_init.c(51): Notify: Next row for parameter PASSWORD = 1 [table  = PASSWORD].
 vuser_init.c(51): Notify: Parameter Substitution: parameter "PASSWORD" =  "loadrunner1234"
 vuser_init.c(51): Redirecting "https://passport.yandex.ru/passport?mode=auth" (redirection depth is 0)  	[MsgId: MMSG-26694]
-vuser_init.c(51): To location "https://passport.yandex.ru/auth/finish/?track_id=bb36cd8822c50a8548ae658523a52d727a"  	[MsgId: MMSG-26693]
-vuser_init.c(51): Redirecting "https://passport.yandex.ru/auth/finish/?track_id=bb36cd8822c50a8548ae658523a52d727a" (redirection depth is 1)  	[MsgId: MMSG-26694]
-vuser_init.c(51): To location "https://pass.yandex.ru/login?retpath=https%3A%2F%2Fmail.yandex.ru%2Flite%2Finbox&ncrnd=606304"  	[MsgId: MMSG-26693]
-vuser_init.c(51): Redirecting "https://pass.yandex.ru/login?retpath=https%3A%2F%2Fmail.yandex.ru%2Flite%2Finbox&ncrnd=606304" (redirection depth is 2)  	[MsgId: MMSG-26694]
-vuser_init.c(51): To location "https://mail.yandex.ru/lite/inbox?ncrnd=4841"  	[MsgId: MMSG-26693]
-vuser_init.c(51): Found resource "https://yastatic.net/mail/pda2/1.33.351/pages/messages/_messages_lite.css" in HTML "https://mail.yandex.ru/lite/inbox?ncrnd=4841"  	[MsgId: MMSG-26659]
-vuser_init.c(51): Found resource "https://yandex.st/lego/_/X31pO5JJJKEifJ7sfvuf3mGeD_8.png" in HTML "https://mail.yandex.ru/lite/inbox?ncrnd=4841"  	[MsgId: MMSG-26659]
-vuser_init.c(51): Found resource "https://upics.yandex.net/334026821/small" in HTML "https://mail.yandex.ru/lite/inbox?ncrnd=4841"  	[MsgId: MMSG-26659]
-vuser_init.c(51): Found resource "https://yastatic.net/mail/pda2/1.33.351/blocks/b-messages/message/b-messages__message_important.gif" in HTML "https://mail.yandex.ru/lite/inbox?ncrnd=4841"  	[MsgId: MMSG-26659]
-vuser_init.c(51): Found resource "https://yastatic.net/mail/pda2/1.33.351/blocks/b-messages/message/b-messages__message_replied.gif" in HTML "https://mail.yandex.ru/lite/inbox?ncrnd=4841"  	[MsgId: MMSG-26659]
-vuser_init.c(51): Found resource "https://yastatic.net/mail/pda2/1.33.351/blocks/b-messages/message/b-messages__message_new.gif" in HTML "https://mail.yandex.ru/lite/inbox?ncrnd=4841"  	[MsgId: MMSG-26659]
-vuser_init.c(51): Found resource "https://yastatic.net/jquery/1.4.4/jquery.min.js" in HTML "https://mail.yandex.ru/lite/inbox?ncrnd=4841"  	[MsgId: MMSG-26659]
-vuser_init.c(51): Found resource "https://yastatic.net/mail/pda2/1.33.351/js/_lite.js" in HTML "https://mail.yandex.ru/lite/inbox?ncrnd=4841"  	[MsgId: MMSG-26659]
-vuser_init.c(51): Found resource "https://yastatic.net/mail/pda2/1.33.351/js/pages/_messages.js" in HTML "https://mail.yandex.ru/lite/inbox?ncrnd=4841"  	[MsgId: MMSG-26659]
+vuser_init.c(51): To location "https://passport.yandex.ru/auth/finish/?track_id=b47020c0c1f3bb64bac4951eb13e105a08"  	[MsgId: MMSG-26693]
+vuser_init.c(51): Redirecting "https://passport.yandex.ru/auth/finish/?track_id=b47020c0c1f3bb64bac4951eb13e105a08" (redirection depth is 1)  	[MsgId: MMSG-26694]
+vuser_init.c(51): To location "https://pass.yandex.ru/login?retpath=https%3A%2F%2Fmail.yandex.ru%2Flite%2Finbox&ncrnd=676256"  	[MsgId: MMSG-26693]
+vuser_init.c(51): Redirecting "https://pass.yandex.ru/login?retpath=https%3A%2F%2Fmail.yandex.ru%2Flite%2Finbox&ncrnd=676256" (redirection depth is 2)  	[MsgId: MMSG-26694]
+vuser_init.c(51): To location "https://mail.yandex.ru/lite/inbox?ncrnd=3913"  	[MsgId: MMSG-26693]
+vuser_init.c(51): Found resource "https://yastatic.net/mail/pda2/1.33.351/pages/messages/_messages_lite.css" in HTML "https://mail.yandex.ru/lite/inbox?ncrnd=3913"  	[MsgId: MMSG-26659]
+vuser_init.c(51): Found resource "https://yandex.st/lego/_/X31pO5JJJKEifJ7sfvuf3mGeD_8.png" in HTML "https://mail.yandex.ru/lite/inbox?ncrnd=3913"  	[MsgId: MMSG-26659]
+vuser_init.c(51): Found resource "https://upics.yandex.net/334026821/small" in HTML "https://mail.yandex.ru/lite/inbox?ncrnd=3913"  	[MsgId: MMSG-26659]
+vuser_init.c(51): Found resource "https://yastatic.net/mail/pda2/1.33.351/blocks/b-messages/message/b-messages__message_important.gif" in HTML "https://mail.yandex.ru/lite/inbox?ncrnd=3913"  	[MsgId: MMSG-26659]
+vuser_init.c(51): Found resource "https://yastatic.net/mail/pda2/1.33.351/blocks/b-messages/message/b-messages__message_new.gif" in HTML "https://mail.yandex.ru/lite/inbox?ncrnd=3913"  	[MsgId: MMSG-26659]
+vuser_init.c(51): Found resource "https://yastatic.net/mail/pda2/1.33.351/blocks/b-messages/message/b-messages__message_replied.gif" in HTML "https://mail.yandex.ru/lite/inbox?ncrnd=3913"  	[MsgId: MMSG-26659]
+vuser_init.c(51): Found resource "https://yastatic.net/jquery/1.4.4/jquery.min.js" in HTML "https://mail.yandex.ru/lite/inbox?ncrnd=3913"  	[MsgId: MMSG-26659]
+vuser_init.c(51): Found resource "https://yastatic.net/mail/pda2/1.33.351/js/_lite.js" in HTML "https://mail.yandex.ru/lite/inbox?ncrnd=3913"  	[MsgId: MMSG-26659]
+vuser_init.c(51): Found resource "https://yastatic.net/mail/pda2/1.33.351/js/pages/_messages.js" in HTML "https://mail.yandex.ru/lite/inbox?ncrnd=3913"  	[MsgId: MMSG-26659]
 vuser_init.c(51): Redirecting "https://upics.yandex.net/334026821/small" (redirection depth is 0)  	[MsgId: MMSG-26694]
 vuser_init.c(51): To location "https://avatars.mds.yandex.net/get-yapic/0/0-0/islands-25"  	[MsgId: MMSG-26693]
 vuser_init.c(51): Registered web_reg_find successful for "Text=Входящие" (count=3)  	[MsgId: MMSG-26364]
-vuser_init.c(51): web_submit_data("passport") was successful, 40843 body bytes, 8631 header bytes  	[MsgId: MMSG-26386]
-vuser_init.c(63): Notify: Transaction "Авторизация" ended with a "Pass" status (Duration: 0,5924 Wasted Time: 0,0087).
+vuser_init.c(51): web_submit_data("passport") was successful, 41538 body bytes, 8627 header bytes  	[MsgId: MMSG-26386]
+vuser_init.c(63): Notify: Transaction "Авторизация" ended with a "Pass" status (Duration: 0,6746 Wasted Time: 0,0075).
 Ending action vuser_init.
 Running Vuser...
 Starting iteration 1.
@@ -96,7 +96,7 @@ Action.c(6): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
 Action.c(10): web_reg_save_param_ex started  	[MsgId: MMSG-26355]
 Action.c(10): Registering web_reg_save_param_ex was successful  	[MsgId: MMSG-26390]
 Action.c(18): web_url("retpath=inbox") started  	[MsgId: MMSG-26355]
-Action.c(18): Notify: Saving Parameter "LOGOUT_ID = 5461110501443608139".
+Action.c(18): Notify: Saving Parameter "LOGOUT_ID = 4372812371443617517".
 Action.c(18): Found resource "https://yastatic.net/mail/pda2/1.33.351/pages/compose/_compose_lite.css" in HTML "https://mail.yandex.ru/lite/compose/"  	[MsgId: MMSG-26659]
 Action.c(18): Resource "https://yandex.st/lego/_/X31pO5JJJKEifJ7sfvuf3mGeD_8.png" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
 Action.c(18): Found resource "https://upics.yandex.net/334026821/small" in HTML "https://mail.yandex.ru/lite/compose/"  	[MsgId: MMSG-26659]
@@ -109,13 +109,13 @@ Action.c(18): To location "https://avatars.mds.yandex.net/get-yapic/0/0-0/island
 Action.c(18): Resource "https://avatars.mds.yandex.net/get-yapic/0/0-0/islands-25" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
 Action.c(18): Registered web_reg_find successful for "Text=Новое письмо — Яндекс.Почта" (count=1)  	[MsgId: MMSG-26364]
 Action.c(18): web_url("retpath=inbox") was successful, 12347 body bytes, 1683 header bytes  	[MsgId: MMSG-26386]
-Action.c(26): Notify: Transaction "Открытие формы для нового письма" ended with a "Pass" status (Duration: 0,2307 Wasted Time: 0,0026).
+Action.c(26): Notify: Transaction "Открытие формы для нового письма" ended with a "Pass" status (Duration: 0,1865 Wasted Time: 0,0027).
 Action.c(28): Notify: Transaction "Отправка письма" started.
 Action.c(30): web_submit_form("compose-send") started  	[MsgId: MMSG-26355]
 Action.c(30): Notify: Parameter Substitution: parameter "LOGIN" =  "lrunnertest1@yandex.ru"
-Action.c(30): Notify: Parameter Substitution: parameter "SUBJECT" =  "Облачные вычисления. Образование. Исследования."
-Action.c(30): Notify: Next row for parameter MESSAGEBODY = 3 [table  = MESSAGEBODY].
-Action.c(30): Notify: Parameter Substitution: parameter "MESSAGEBODY" =  "С докладами выступят признанные эксперты отечественных и зарубежных научных и образовательных организаций, редставители ведущих IT-компаний, а также исследователи, чьи работы прошли независимое профессиональное рецензирование."
+Action.c(30): Notify: Parameter Substitution: parameter "SUBJECT" =  "Fall TV Preview"
+Action.c(30): Notify: Next row for parameter MESSAGEBODY = 2 [table  = MESSAGEBODY].
+Action.c(30): Notify: Parameter Substitution: parameter "MESSAGEBODY" =  "The Latest Buzz on All Your Favorite (and New Favorite) Shows: The Flash, Arrow, Gotham, and Agents of S.H.I.E.L.D. are all returning this Fall along with newbie Supergirl. Which shows should you be watching?"
 Action.c(30): Warning -26490: File name in a multipart submit is missing or empty. Using an empty file  	[MsgId: MWAR-26490]
 Action.c(30): Submitting form to "https://mail.yandex.ru/lite/compose-action.xml", Target Frame=""  	[MsgId: MMSG-27978]
 Action.c(30): Redirecting "https://mail.yandex.ru/lite/compose-action.xml" (redirection depth is 0)  	[MsgId: MMSG-26694]
@@ -124,15 +124,15 @@ Action.c(30): Resource "https://yastatic.net/mail/pda2/1.33.351/pages/messages/_
 Action.c(30): Resource "https://yandex.st/lego/_/X31pO5JJJKEifJ7sfvuf3mGeD_8.png" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
 Action.c(30): Found resource "https://upics.yandex.net/334026821/small" in HTML "https://mail.yandex.ru/lite/inbox?ids=&executed_action=message_send"  	[MsgId: MMSG-26659]
 Action.c(30): Resource "https://yastatic.net/mail/pda2/1.33.351/blocks/b-messages/message/b-messages__message_important.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
-Action.c(30): Resource "https://yastatic.net/mail/pda2/1.33.351/blocks/b-messages/message/b-messages__message_replied.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
 Action.c(30): Resource "https://yastatic.net/mail/pda2/1.33.351/blocks/b-messages/message/b-messages__message_new.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(30): Resource "https://yastatic.net/mail/pda2/1.33.351/blocks/b-messages/message/b-messages__message_replied.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
 Action.c(30): Resource "https://yastatic.net/jquery/1.4.4/jquery.min.js" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
 Action.c(30): Resource "https://yastatic.net/mail/pda2/1.33.351/js/_lite.js" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
 Action.c(30): Resource "https://yastatic.net/mail/pda2/1.33.351/js/pages/_messages.js" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
 Action.c(30): Redirecting "https://upics.yandex.net/334026821/small" (redirection depth is 0)  	[MsgId: MMSG-26694]
 Action.c(30): To location "https://avatars.mds.yandex.net/get-yapic/0/0-0/islands-25"  	[MsgId: MMSG-26693]
 Action.c(30): Resource "https://avatars.mds.yandex.net/get-yapic/0/0-0/islands-25" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
-Action.c(30): web_submit_form("compose-send") highest severity level was "warning", 7412 body bytes, 1155 header bytes  	[MsgId: MMSG-26388]
+Action.c(30): web_submit_form("compose-send") highest severity level was "warning", 7880 body bytes, 1155 header bytes  	[MsgId: MMSG-26388]
 Action.c(43): web_reg_find started  	[MsgId: MMSG-26355]
 Action.c(43): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
 Action.c(46): web_url("inbox") started  	[MsgId: MMSG-26355]
@@ -149,38 +149,387 @@ Action.c(46): Redirecting "https://upics.yandex.net/334026821/small" (redirectio
 Action.c(46): To location "https://avatars.mds.yandex.net/get-yapic/0/0-0/islands-25"  	[MsgId: MMSG-26693]
 Action.c(46): Resource "https://avatars.mds.yandex.net/get-yapic/0/0-0/islands-25" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
 Action.c(46): Registered web_reg_find successful for "Text=Письмо отправлено" (count=2)  	[MsgId: MMSG-26364]
-Action.c(46): web_url("inbox") was successful, 6780 body bytes, 789 header bytes  	[MsgId: MMSG-26386]
-Action.c(54): Notify: Transaction "Отправка письма" ended with a "Pass" status (Duration: 1,1688 Wasted Time: 0,0046).
+Action.c(46): web_url("inbox") was successful, 7317 body bytes, 789 header bytes  	[MsgId: MMSG-26386]
+Action.c(54): Notify: Transaction "Отправка письма" ended with a "Pass" status (Duration: 2,2225 Wasted Time: 0,0067).
 Ending action Action.
 Ending iteration 1.
+Starting iteration 2.
+Notify: Next row for parameter SUBJECT = 2 [table  = SUBJECT].
+Notify: Getting new value for parameter 'SUBJECT': table = 'message.dat' column = '0' row = '2'.
+Notify: Next row for parameter MESSAGEBODY = 2 [table  = MESSAGEBODY].
+Notify: Getting new value for parameter 'MESSAGEBODY': table = 'message.dat' column = '1' row = '2'.
+Notify: Next row for parameter PASSWORD = 1 [table  = PASSWORD].
+Notify: Getting new value for parameter 'PASSWORD': table = 'log_n_pass.dat' column = '1' row = '1'.
+Starting action Action.
+Action.c(4): Notify: Transaction "Открытие формы для нового письма" started.
+Action.c(6): web_reg_find started  	[MsgId: MMSG-26355]
+Action.c(6): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(10): web_reg_save_param_ex started  	[MsgId: MMSG-26355]
+Action.c(10): Registering web_reg_save_param_ex was successful  	[MsgId: MMSG-26390]
+Action.c(18): web_url("retpath=inbox") started  	[MsgId: MMSG-26355]
+Action.c(18): Notify: Saving Parameter "LOGOUT_ID = 4372812371443617517".
+Action.c(18): Found resource "https://yastatic.net/mail/pda2/1.33.351/pages/compose/_compose_lite.css" in HTML "https://mail.yandex.ru/lite/compose/"  	[MsgId: MMSG-26659]
+Action.c(18): Found resource "https://yandex.st/lego/_/X31pO5JJJKEifJ7sfvuf3mGeD_8.png" in HTML "https://mail.yandex.ru/lite/compose/"  	[MsgId: MMSG-26659]
+Action.c(18): Found resource "https://upics.yandex.net/334026821/small" in HTML "https://mail.yandex.ru/lite/compose/"  	[MsgId: MMSG-26659]
+Action.c(18): Found resource "https://yastatic.net/mail/pda2/1.33.351/blocks/b-messages/message/b-messages__message_important.gif" in HTML "https://mail.yandex.ru/lite/compose/"  	[MsgId: MMSG-26659]
+Action.c(18): Found resource "https://yastatic.net/jquery/1.4.4/jquery.min.js" in HTML "https://mail.yandex.ru/lite/compose/"  	[MsgId: MMSG-26659]
+Action.c(18): Found resource "https://yastatic.net/mail/pda2/1.33.351/js/_lite.js" in HTML "https://mail.yandex.ru/lite/compose/"  	[MsgId: MMSG-26659]
+Action.c(18): Found resource "https://yastatic.net/mail/pda2/1.33.351/js/pages/_compose.js" in HTML "https://mail.yandex.ru/lite/compose/"  	[MsgId: MMSG-26659]
+Action.c(18): Redirecting "https://upics.yandex.net/334026821/small" (redirection depth is 0)  	[MsgId: MMSG-26694]
+Action.c(18): To location "https://avatars.mds.yandex.net/get-yapic/0/0-0/islands-25"  	[MsgId: MMSG-26693]
+Action.c(18): Registered web_reg_find successful for "Text=Новое письмо — Яндекс.Почта" (count=1)  	[MsgId: MMSG-26364]
+Action.c(18): web_url("retpath=inbox") was successful, 42169 body bytes, 3720 header bytes  	[MsgId: MMSG-26386]
+Action.c(26): Notify: Transaction "Открытие формы для нового письма" ended with a "Pass" status (Duration: 1,0931 Wasted Time: 0,0054).
+Action.c(28): Notify: Transaction "Отправка письма" started.
+Action.c(30): web_submit_form("compose-send") started  	[MsgId: MMSG-26355]
+Action.c(30): Notify: Parameter Substitution: parameter "LOGIN" =  "lrunnertest1@yandex.ru"
+Action.c(30): Notify: Parameter Substitution: parameter "SUBJECT" =  "Fall TV Preview"
+Action.c(30): Notify: Next row for parameter MESSAGEBODY = 2 [table  = MESSAGEBODY].
+Action.c(30): Notify: Parameter Substitution: parameter "MESSAGEBODY" =  "The Latest Buzz on All Your Favorite (and New Favorite) Shows: The Flash, Arrow, Gotham, and Agents of S.H.I.E.L.D. are all returning this Fall along with newbie Supergirl. Which shows should you be watching?"
+Action.c(30): Warning -26490: File name in a multipart submit is missing or empty. Using an empty file  	[MsgId: MWAR-26490]
+Action.c(30): Submitting form to "https://mail.yandex.ru/lite/compose-action.xml", Target Frame=""  	[MsgId: MMSG-27978]
+Action.c(30): Redirecting "https://mail.yandex.ru/lite/compose-action.xml" (redirection depth is 0)  	[MsgId: MMSG-26694]
+Action.c(30): To location "https://mail.yandex.ru/lite/inbox?ids=&executed_action=message_send"  	[MsgId: MMSG-26693]
+Action.c(30): Found resource "https://yastatic.net/mail/pda2/1.33.351/pages/messages/_messages_lite.css" in HTML "https://mail.yandex.ru/lite/inbox?ids=&executed_action=message_send"  	[MsgId: MMSG-26659]
+Action.c(30): Resource "https://yandex.st/lego/_/X31pO5JJJKEifJ7sfvuf3mGeD_8.png" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(30): Found resource "https://upics.yandex.net/334026821/small" in HTML "https://mail.yandex.ru/lite/inbox?ids=&executed_action=message_send"  	[MsgId: MMSG-26659]
+Action.c(30): Resource "https://yastatic.net/mail/pda2/1.33.351/blocks/b-messages/message/b-messages__message_important.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(30): Found resource "https://yastatic.net/mail/pda2/1.33.351/blocks/b-messages/message/b-messages__message_new.gif" in HTML "https://mail.yandex.ru/lite/inbox?ids=&executed_action=message_send"  	[MsgId: MMSG-26659]
+Action.c(30): Found resource "https://yastatic.net/mail/pda2/1.33.351/blocks/b-messages/message/b-messages__message_replied.gif" in HTML "https://mail.yandex.ru/lite/inbox?ids=&executed_action=message_send"  	[MsgId: MMSG-26659]
+Action.c(30): Resource "https://yastatic.net/jquery/1.4.4/jquery.min.js" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(30): Resource "https://yastatic.net/mail/pda2/1.33.351/js/_lite.js" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(30): Found resource "https://yastatic.net/mail/pda2/1.33.351/js/pages/_messages.js" in HTML "https://mail.yandex.ru/lite/inbox?ids=&executed_action=message_send"  	[MsgId: MMSG-26659]
+Action.c(30): Redirecting "https://upics.yandex.net/334026821/small" (redirection depth is 0)  	[MsgId: MMSG-26694]
+Action.c(30): To location "https://avatars.mds.yandex.net/get-yapic/0/0-0/islands-25"  	[MsgId: MMSG-26693]
+Action.c(30): Resource "https://avatars.mds.yandex.net/get-yapic/0/0-0/islands-25" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(30): web_submit_form("compose-send") highest severity level was "warning", 12194 body bytes, 2902 header bytes  	[MsgId: MMSG-26388]
+Action.c(43): web_reg_find started  	[MsgId: MMSG-26355]
+Action.c(43): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(46): web_url("inbox") started  	[MsgId: MMSG-26355]
+Action.c(46): Resource "https://yastatic.net/mail/pda2/1.33.351/pages/messages/_messages_lite.css" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(46): Resource "https://yandex.st/lego/_/X31pO5JJJKEifJ7sfvuf3mGeD_8.png" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(46): Found resource "https://upics.yandex.net/334026821/small" in HTML "https://mail.yandex.ru/lite/inbox?ids=&executed_action=message_send"  	[MsgId: MMSG-26659]
+Action.c(46): Resource "https://yastatic.net/mail/pda2/1.33.351/blocks/b-messages/message/b-messages__message_important.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(46): Resource "https://yastatic.net/mail/pda2/1.33.351/blocks/b-messages/message/b-messages__message_new.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(46): Resource "https://yastatic.net/mail/pda2/1.33.351/blocks/b-messages/message/b-messages__message_replied.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(46): Resource "https://yastatic.net/jquery/1.4.4/jquery.min.js" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(46): Resource "https://yastatic.net/mail/pda2/1.33.351/js/_lite.js" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(46): Resource "https://yastatic.net/mail/pda2/1.33.351/js/pages/_messages.js" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(46): Redirecting "https://upics.yandex.net/334026821/small" (redirection depth is 0)  	[MsgId: MMSG-26694]
+Action.c(46): To location "https://avatars.mds.yandex.net/get-yapic/0/0-0/islands-25"  	[MsgId: MMSG-26693]
+Action.c(46): Resource "https://avatars.mds.yandex.net/get-yapic/0/0-0/islands-25" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(46): Registered web_reg_find successful for "Text=Письмо отправлено" (count=2)  	[MsgId: MMSG-26364]
+Action.c(46): web_url("inbox") was successful, 7513 body bytes, 789 header bytes  	[MsgId: MMSG-26386]
+Action.c(54): Notify: Transaction "Отправка письма" ended with a "Pass" status (Duration: 1,1336 Wasted Time: 0,0063).
+Ending action Action.
+Ending iteration 2.
+Starting iteration 3.
+Notify: Next row for parameter SUBJECT = 4 [table  = SUBJECT].
+Notify: Getting new value for parameter 'SUBJECT': table = 'message.dat' column = '0' row = '4'.
+Notify: Next row for parameter MESSAGEBODY = 4 [table  = MESSAGEBODY].
+Notify: Getting new value for parameter 'MESSAGEBODY': table = 'message.dat' column = '1' row = '4'.
+Notify: Next row for parameter PASSWORD = 1 [table  = PASSWORD].
+Notify: Getting new value for parameter 'PASSWORD': table = 'log_n_pass.dat' column = '1' row = '1'.
+Starting action Action.
+Action.c(4): Notify: Transaction "Открытие формы для нового письма" started.
+Action.c(6): web_reg_find started  	[MsgId: MMSG-26355]
+Action.c(6): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(10): web_reg_save_param_ex started  	[MsgId: MMSG-26355]
+Action.c(10): Registering web_reg_save_param_ex was successful  	[MsgId: MMSG-26390]
+Action.c(18): web_url("retpath=inbox") started  	[MsgId: MMSG-26355]
+Action.c(18): Notify: Saving Parameter "LOGOUT_ID = 4372812371443617517".
+Action.c(18): Found resource "https://yastatic.net/mail/pda2/1.33.351/pages/compose/_compose_lite.css" in HTML "https://mail.yandex.ru/lite/compose/"  	[MsgId: MMSG-26659]
+Action.c(18): Found resource "https://yandex.st/lego/_/X31pO5JJJKEifJ7sfvuf3mGeD_8.png" in HTML "https://mail.yandex.ru/lite/compose/"  	[MsgId: MMSG-26659]
+Action.c(18): Found resource "https://upics.yandex.net/334026821/small" in HTML "https://mail.yandex.ru/lite/compose/"  	[MsgId: MMSG-26659]
+Action.c(18): Found resource "https://yastatic.net/mail/pda2/1.33.351/blocks/b-messages/message/b-messages__message_important.gif" in HTML "https://mail.yandex.ru/lite/compose/"  	[MsgId: MMSG-26659]
+Action.c(18): Found resource "https://yastatic.net/jquery/1.4.4/jquery.min.js" in HTML "https://mail.yandex.ru/lite/compose/"  	[MsgId: MMSG-26659]
+Action.c(18): Found resource "https://yastatic.net/mail/pda2/1.33.351/js/_lite.js" in HTML "https://mail.yandex.ru/lite/compose/"  	[MsgId: MMSG-26659]
+Action.c(18): Found resource "https://yastatic.net/mail/pda2/1.33.351/js/pages/_compose.js" in HTML "https://mail.yandex.ru/lite/compose/"  	[MsgId: MMSG-26659]
+Action.c(18): Redirecting "https://upics.yandex.net/334026821/small" (redirection depth is 0)  	[MsgId: MMSG-26694]
+Action.c(18): To location "https://avatars.mds.yandex.net/get-yapic/0/0-0/islands-25"  	[MsgId: MMSG-26693]
+Action.c(18): Registered web_reg_find successful for "Text=Новое письмо — Яндекс.Почта" (count=1)  	[MsgId: MMSG-26364]
+Action.c(18): web_url("retpath=inbox") was successful, 42168 body bytes, 3720 header bytes  	[MsgId: MMSG-26386]
+Action.c(26): Notify: Transaction "Открытие формы для нового письма" ended with a "Pass" status (Duration: 0,3133 Wasted Time: 0,0052).
+Action.c(28): Notify: Transaction "Отправка письма" started.
+Action.c(30): web_submit_form("compose-send") started  	[MsgId: MMSG-26355]
+Action.c(30): Notify: Parameter Substitution: parameter "LOGIN" =  "lrunnertest1@yandex.ru"
+Action.c(30): Notify: Parameter Substitution: parameter "SUBJECT" =  "rdmTest 1subj"
+Action.c(30): Notify: Next row for parameter MESSAGEBODY = 4 [table  = MESSAGEBODY].
+Action.c(30): Notify: Parameter Substitution: parameter "MESSAGEBODY" =  "На будущее (Для теста третьего скрипта)"
+Action.c(30): Warning -26490: File name in a multipart submit is missing or empty. Using an empty file  	[MsgId: MWAR-26490]
+Action.c(30): Submitting form to "https://mail.yandex.ru/lite/compose-action.xml", Target Frame=""  	[MsgId: MMSG-27978]
+Action.c(30): Redirecting "https://mail.yandex.ru/lite/compose-action.xml" (redirection depth is 0)  	[MsgId: MMSG-26694]
+Action.c(30): To location "https://mail.yandex.ru/lite/inbox?ids=&executed_action=message_send"  	[MsgId: MMSG-26693]
+Action.c(30): Found resource "https://yastatic.net/mail/pda2/1.33.351/pages/messages/_messages_lite.css" in HTML "https://mail.yandex.ru/lite/inbox?ids=&executed_action=message_send"  	[MsgId: MMSG-26659]
+Action.c(30): Resource "https://yandex.st/lego/_/X31pO5JJJKEifJ7sfvuf3mGeD_8.png" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(30): Found resource "https://upics.yandex.net/334026821/small" in HTML "https://mail.yandex.ru/lite/inbox?ids=&executed_action=message_send"  	[MsgId: MMSG-26659]
+Action.c(30): Resource "https://yastatic.net/mail/pda2/1.33.351/blocks/b-messages/message/b-messages__message_important.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(30): Found resource "https://yastatic.net/mail/pda2/1.33.351/blocks/b-messages/message/b-messages__message_new.gif" in HTML "https://mail.yandex.ru/lite/inbox?ids=&executed_action=message_send"  	[MsgId: MMSG-26659]
+Action.c(30): Found resource "https://yastatic.net/mail/pda2/1.33.351/blocks/b-messages/message/b-messages__message_replied.gif" in HTML "https://mail.yandex.ru/lite/inbox?ids=&executed_action=message_send"  	[MsgId: MMSG-26659]
+Action.c(30): Resource "https://yastatic.net/jquery/1.4.4/jquery.min.js" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(30): Resource "https://yastatic.net/mail/pda2/1.33.351/js/_lite.js" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(30): Found resource "https://yastatic.net/mail/pda2/1.33.351/js/pages/_messages.js" in HTML "https://mail.yandex.ru/lite/inbox?ids=&executed_action=message_send"  	[MsgId: MMSG-26659]
+Action.c(30): Redirecting "https://upics.yandex.net/334026821/small" (redirection depth is 0)  	[MsgId: MMSG-26694]
+Action.c(30): To location "https://avatars.mds.yandex.net/get-yapic/0/0-0/islands-25"  	[MsgId: MMSG-26693]
+Action.c(30): Resource "https://avatars.mds.yandex.net/get-yapic/0/0-0/islands-25" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(30): web_submit_form("compose-send") highest severity level was "warning", 12241 body bytes, 2902 header bytes  	[MsgId: MMSG-26388]
+Action.c(43): web_reg_find started  	[MsgId: MMSG-26355]
+Action.c(43): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(46): web_url("inbox") started  	[MsgId: MMSG-26355]
+Action.c(46): Resource "https://yastatic.net/mail/pda2/1.33.351/pages/messages/_messages_lite.css" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(46): Resource "https://yandex.st/lego/_/X31pO5JJJKEifJ7sfvuf3mGeD_8.png" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(46): Found resource "https://upics.yandex.net/334026821/small" in HTML "https://mail.yandex.ru/lite/inbox?ids=&executed_action=message_send"  	[MsgId: MMSG-26659]
+Action.c(46): Resource "https://yastatic.net/mail/pda2/1.33.351/blocks/b-messages/message/b-messages__message_important.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(46): Resource "https://yastatic.net/mail/pda2/1.33.351/blocks/b-messages/message/b-messages__message_new.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(46): Resource "https://yastatic.net/mail/pda2/1.33.351/blocks/b-messages/message/b-messages__message_replied.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(46): Resource "https://yastatic.net/jquery/1.4.4/jquery.min.js" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(46): Resource "https://yastatic.net/mail/pda2/1.33.351/js/_lite.js" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(46): Resource "https://yastatic.net/mail/pda2/1.33.351/js/pages/_messages.js" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(46): Redirecting "https://upics.yandex.net/334026821/small" (redirection depth is 0)  	[MsgId: MMSG-26694]
+Action.c(46): To location "https://avatars.mds.yandex.net/get-yapic/0/0-0/islands-25"  	[MsgId: MMSG-26693]
+Action.c(46): Resource "https://avatars.mds.yandex.net/get-yapic/0/0-0/islands-25" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(46): Registered web_reg_find successful for "Text=Письмо отправлено" (count=2)  	[MsgId: MMSG-26364]
+Action.c(46): web_url("inbox") was successful, 7535 body bytes, 789 header bytes  	[MsgId: MMSG-26386]
+Action.c(54): Notify: Transaction "Отправка письма" ended with a "Pass" status (Duration: 1,7867 Wasted Time: 0,0061).
+Ending action Action.
+Ending iteration 3.
+Starting iteration 4.
+Notify: Next row for parameter SUBJECT = 2 [table  = SUBJECT].
+Notify: Getting new value for parameter 'SUBJECT': table = 'message.dat' column = '0' row = '2'.
+Notify: Next row for parameter MESSAGEBODY = 2 [table  = MESSAGEBODY].
+Notify: Getting new value for parameter 'MESSAGEBODY': table = 'message.dat' column = '1' row = '2'.
+Notify: Next row for parameter PASSWORD = 1 [table  = PASSWORD].
+Notify: Getting new value for parameter 'PASSWORD': table = 'log_n_pass.dat' column = '1' row = '1'.
+Starting action Action.
+Action.c(4): Notify: Transaction "Открытие формы для нового письма" started.
+Action.c(6): web_reg_find started  	[MsgId: MMSG-26355]
+Action.c(6): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(10): web_reg_save_param_ex started  	[MsgId: MMSG-26355]
+Action.c(10): Registering web_reg_save_param_ex was successful  	[MsgId: MMSG-26390]
+Action.c(18): web_url("retpath=inbox") started  	[MsgId: MMSG-26355]
+Action.c(18): Notify: Saving Parameter "LOGOUT_ID = 4372812371443617517".
+Action.c(18): Found resource "https://yastatic.net/mail/pda2/1.33.351/pages/compose/_compose_lite.css" in HTML "https://mail.yandex.ru/lite/compose/"  	[MsgId: MMSG-26659]
+Action.c(18): Found resource "https://yandex.st/lego/_/X31pO5JJJKEifJ7sfvuf3mGeD_8.png" in HTML "https://mail.yandex.ru/lite/compose/"  	[MsgId: MMSG-26659]
+Action.c(18): Found resource "https://upics.yandex.net/334026821/small" in HTML "https://mail.yandex.ru/lite/compose/"  	[MsgId: MMSG-26659]
+Action.c(18): Found resource "https://yastatic.net/mail/pda2/1.33.351/blocks/b-messages/message/b-messages__message_important.gif" in HTML "https://mail.yandex.ru/lite/compose/"  	[MsgId: MMSG-26659]
+Action.c(18): Found resource "https://yastatic.net/jquery/1.4.4/jquery.min.js" in HTML "https://mail.yandex.ru/lite/compose/"  	[MsgId: MMSG-26659]
+Action.c(18): Found resource "https://yastatic.net/mail/pda2/1.33.351/js/_lite.js" in HTML "https://mail.yandex.ru/lite/compose/"  	[MsgId: MMSG-26659]
+Action.c(18): Found resource "https://yastatic.net/mail/pda2/1.33.351/js/pages/_compose.js" in HTML "https://mail.yandex.ru/lite/compose/"  	[MsgId: MMSG-26659]
+Action.c(18): Redirecting "https://upics.yandex.net/334026821/small" (redirection depth is 0)  	[MsgId: MMSG-26694]
+Action.c(18): To location "https://avatars.mds.yandex.net/get-yapic/0/0-0/islands-25"  	[MsgId: MMSG-26693]
+Action.c(18): Registered web_reg_find successful for "Text=Новое письмо — Яндекс.Почта" (count=1)  	[MsgId: MMSG-26364]
+Action.c(18): web_url("retpath=inbox") was successful, 42160 body bytes, 3720 header bytes  	[MsgId: MMSG-26386]
+Action.c(26): Notify: Transaction "Открытие формы для нового письма" ended with a "Pass" status (Duration: 0,2934 Wasted Time: 0,0050).
+Action.c(28): Notify: Transaction "Отправка письма" started.
+Action.c(30): web_submit_form("compose-send") started  	[MsgId: MMSG-26355]
+Action.c(30): Notify: Parameter Substitution: parameter "LOGIN" =  "lrunnertest1@yandex.ru"
+Action.c(30): Notify: Parameter Substitution: parameter "SUBJECT" =  "Fall TV Preview"
+Action.c(30): Notify: Next row for parameter MESSAGEBODY = 2 [table  = MESSAGEBODY].
+Action.c(30): Notify: Parameter Substitution: parameter "MESSAGEBODY" =  "The Latest Buzz on All Your Favorite (and New Favorite) Shows: The Flash, Arrow, Gotham, and Agents of S.H.I.E.L.D. are all returning this Fall along with newbie Supergirl. Which shows should you be watching?"
+Action.c(30): Warning -26490: File name in a multipart submit is missing or empty. Using an empty file  	[MsgId: MWAR-26490]
+Action.c(30): Submitting form to "https://mail.yandex.ru/lite/compose-action.xml", Target Frame=""  	[MsgId: MMSG-27978]
+Action.c(30): Redirecting "https://mail.yandex.ru/lite/compose-action.xml" (redirection depth is 0)  	[MsgId: MMSG-26694]
+Action.c(30): To location "https://mail.yandex.ru/lite/inbox?ids=&executed_action=message_send"  	[MsgId: MMSG-26693]
+Action.c(30): Found resource "https://yastatic.net/mail/pda2/1.33.351/pages/messages/_messages_lite.css" in HTML "https://mail.yandex.ru/lite/inbox?ids=&executed_action=message_send"  	[MsgId: MMSG-26659]
+Action.c(30): Resource "https://yandex.st/lego/_/X31pO5JJJKEifJ7sfvuf3mGeD_8.png" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(30): Found resource "https://upics.yandex.net/334026821/small" in HTML "https://mail.yandex.ru/lite/inbox?ids=&executed_action=message_send"  	[MsgId: MMSG-26659]
+Action.c(30): Resource "https://yastatic.net/mail/pda2/1.33.351/blocks/b-messages/message/b-messages__message_important.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(30): Found resource "https://yastatic.net/mail/pda2/1.33.351/blocks/b-messages/message/b-messages__message_new.gif" in HTML "https://mail.yandex.ru/lite/inbox?ids=&executed_action=message_send"  	[MsgId: MMSG-26659]
+Action.c(30): Found resource "https://yastatic.net/mail/pda2/1.33.351/blocks/b-messages/message/b-messages__message_replied.gif" in HTML "https://mail.yandex.ru/lite/inbox?ids=&executed_action=message_send"  	[MsgId: MMSG-26659]
+Action.c(30): Resource "https://yastatic.net/jquery/1.4.4/jquery.min.js" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(30): Resource "https://yastatic.net/mail/pda2/1.33.351/js/_lite.js" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(30): Found resource "https://yastatic.net/mail/pda2/1.33.351/js/pages/_messages.js" in HTML "https://mail.yandex.ru/lite/inbox?ids=&executed_action=message_send"  	[MsgId: MMSG-26659]
+Action.c(30): Redirecting "https://upics.yandex.net/334026821/small" (redirection depth is 0)  	[MsgId: MMSG-26694]
+Action.c(30): To location "https://avatars.mds.yandex.net/get-yapic/0/0-0/islands-25"  	[MsgId: MMSG-26693]
+Action.c(30): Resource "https://avatars.mds.yandex.net/get-yapic/0/0-0/islands-25" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(30): web_submit_form("compose-send") highest severity level was "warning", 12264 body bytes, 2902 header bytes  	[MsgId: MMSG-26388]
+Action.c(43): web_reg_find started  	[MsgId: MMSG-26355]
+Action.c(43): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(46): web_url("inbox") started  	[MsgId: MMSG-26355]
+Action.c(46): Resource "https://yastatic.net/mail/pda2/1.33.351/pages/messages/_messages_lite.css" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(46): Resource "https://yandex.st/lego/_/X31pO5JJJKEifJ7sfvuf3mGeD_8.png" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(46): Found resource "https://upics.yandex.net/334026821/small" in HTML "https://mail.yandex.ru/lite/inbox?ids=&executed_action=message_send"  	[MsgId: MMSG-26659]
+Action.c(46): Resource "https://yastatic.net/mail/pda2/1.33.351/blocks/b-messages/message/b-messages__message_important.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(46): Resource "https://yastatic.net/mail/pda2/1.33.351/blocks/b-messages/message/b-messages__message_new.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(46): Resource "https://yastatic.net/mail/pda2/1.33.351/blocks/b-messages/message/b-messages__message_replied.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(46): Resource "https://yastatic.net/jquery/1.4.4/jquery.min.js" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(46): Resource "https://yastatic.net/mail/pda2/1.33.351/js/_lite.js" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(46): Resource "https://yastatic.net/mail/pda2/1.33.351/js/pages/_messages.js" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(46): Redirecting "https://upics.yandex.net/334026821/small" (redirection depth is 0)  	[MsgId: MMSG-26694]
+Action.c(46): To location "https://avatars.mds.yandex.net/get-yapic/0/0-0/islands-25"  	[MsgId: MMSG-26693]
+Action.c(46): Resource "https://avatars.mds.yandex.net/get-yapic/0/0-0/islands-25" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(46): Registered web_reg_find successful for "Text=Письмо отправлено" (count=2)  	[MsgId: MMSG-26364]
+Action.c(46): web_url("inbox") was successful, 7591 body bytes, 789 header bytes  	[MsgId: MMSG-26386]
+Action.c(54): Notify: Transaction "Отправка письма" ended with a "Pass" status (Duration: 1,9098 Wasted Time: 0,0051).
+Ending action Action.
+Ending iteration 4.
+Starting iteration 5.
+Notify: Next row for parameter SUBJECT = 4 [table  = SUBJECT].
+Notify: Getting new value for parameter 'SUBJECT': table = 'message.dat' column = '0' row = '4'.
+Notify: Next row for parameter MESSAGEBODY = 4 [table  = MESSAGEBODY].
+Notify: Getting new value for parameter 'MESSAGEBODY': table = 'message.dat' column = '1' row = '4'.
+Notify: Next row for parameter PASSWORD = 1 [table  = PASSWORD].
+Notify: Getting new value for parameter 'PASSWORD': table = 'log_n_pass.dat' column = '1' row = '1'.
+Starting action Action.
+Action.c(4): Notify: Transaction "Открытие формы для нового письма" started.
+Action.c(6): web_reg_find started  	[MsgId: MMSG-26355]
+Action.c(6): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(10): web_reg_save_param_ex started  	[MsgId: MMSG-26355]
+Action.c(10): Registering web_reg_save_param_ex was successful  	[MsgId: MMSG-26390]
+Action.c(18): web_url("retpath=inbox") started  	[MsgId: MMSG-26355]
+Action.c(18): Notify: Saving Parameter "LOGOUT_ID = 4372812371443617517".
+Action.c(18): Found resource "https://yastatic.net/mail/pda2/1.33.351/pages/compose/_compose_lite.css" in HTML "https://mail.yandex.ru/lite/compose/"  	[MsgId: MMSG-26659]
+Action.c(18): Found resource "https://yandex.st/lego/_/X31pO5JJJKEifJ7sfvuf3mGeD_8.png" in HTML "https://mail.yandex.ru/lite/compose/"  	[MsgId: MMSG-26659]
+Action.c(18): Found resource "https://upics.yandex.net/334026821/small" in HTML "https://mail.yandex.ru/lite/compose/"  	[MsgId: MMSG-26659]
+Action.c(18): Found resource "https://yastatic.net/mail/pda2/1.33.351/blocks/b-messages/message/b-messages__message_important.gif" in HTML "https://mail.yandex.ru/lite/compose/"  	[MsgId: MMSG-26659]
+Action.c(18): Found resource "https://yastatic.net/jquery/1.4.4/jquery.min.js" in HTML "https://mail.yandex.ru/lite/compose/"  	[MsgId: MMSG-26659]
+Action.c(18): Found resource "https://yastatic.net/mail/pda2/1.33.351/js/_lite.js" in HTML "https://mail.yandex.ru/lite/compose/"  	[MsgId: MMSG-26659]
+Action.c(18): Found resource "https://yastatic.net/mail/pda2/1.33.351/js/pages/_compose.js" in HTML "https://mail.yandex.ru/lite/compose/"  	[MsgId: MMSG-26659]
+Action.c(18): Redirecting "https://upics.yandex.net/334026821/small" (redirection depth is 0)  	[MsgId: MMSG-26694]
+Action.c(18): To location "https://avatars.mds.yandex.net/get-yapic/0/0-0/islands-25"  	[MsgId: MMSG-26693]
+Action.c(18): Registered web_reg_find successful for "Text=Новое письмо — Яндекс.Почта" (count=1)  	[MsgId: MMSG-26364]
+Action.c(18): web_url("retpath=inbox") was successful, 42160 body bytes, 3720 header bytes  	[MsgId: MMSG-26386]
+Action.c(26): Notify: Transaction "Открытие формы для нового письма" ended with a "Pass" status (Duration: 0,2364 Wasted Time: 0,0057).
+Action.c(28): Notify: Transaction "Отправка письма" started.
+Action.c(30): web_submit_form("compose-send") started  	[MsgId: MMSG-26355]
+Action.c(30): Notify: Parameter Substitution: parameter "LOGIN" =  "lrunnertest1@yandex.ru"
+Action.c(30): Notify: Parameter Substitution: parameter "SUBJECT" =  "rdmTest 1subj"
+Action.c(30): Notify: Next row for parameter MESSAGEBODY = 4 [table  = MESSAGEBODY].
+Action.c(30): Notify: Parameter Substitution: parameter "MESSAGEBODY" =  "На будущее (Для теста третьего скрипта)"
+Action.c(30): Warning -26490: File name in a multipart submit is missing or empty. Using an empty file  	[MsgId: MWAR-26490]
+Action.c(30): Submitting form to "https://mail.yandex.ru/lite/compose-action.xml", Target Frame=""  	[MsgId: MMSG-27978]
+Action.c(30): Redirecting "https://mail.yandex.ru/lite/compose-action.xml" (redirection depth is 0)  	[MsgId: MMSG-26694]
+Action.c(30): To location "https://mail.yandex.ru/lite/inbox?ids=&executed_action=message_send"  	[MsgId: MMSG-26693]
+Action.c(30): Found resource "https://yastatic.net/mail/pda2/1.33.351/pages/messages/_messages_lite.css" in HTML "https://mail.yandex.ru/lite/inbox?ids=&executed_action=message_send"  	[MsgId: MMSG-26659]
+Action.c(30): Resource "https://yandex.st/lego/_/X31pO5JJJKEifJ7sfvuf3mGeD_8.png" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(30): Found resource "https://upics.yandex.net/334026821/small" in HTML "https://mail.yandex.ru/lite/inbox?ids=&executed_action=message_send"  	[MsgId: MMSG-26659]
+Action.c(30): Resource "https://yastatic.net/mail/pda2/1.33.351/blocks/b-messages/message/b-messages__message_important.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(30): Found resource "https://yastatic.net/mail/pda2/1.33.351/blocks/b-messages/message/b-messages__message_new.gif" in HTML "https://mail.yandex.ru/lite/inbox?ids=&executed_action=message_send"  	[MsgId: MMSG-26659]
+Action.c(30): Found resource "https://yastatic.net/mail/pda2/1.33.351/blocks/b-messages/message/b-messages__message_replied.gif" in HTML "https://mail.yandex.ru/lite/inbox?ids=&executed_action=message_send"  	[MsgId: MMSG-26659]
+Action.c(30): Resource "https://yastatic.net/jquery/1.4.4/jquery.min.js" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(30): Resource "https://yastatic.net/mail/pda2/1.33.351/js/_lite.js" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(30): Found resource "https://yastatic.net/mail/pda2/1.33.351/js/pages/_messages.js" in HTML "https://mail.yandex.ru/lite/inbox?ids=&executed_action=message_send"  	[MsgId: MMSG-26659]
+Action.c(30): Redirecting "https://upics.yandex.net/334026821/small" (redirection depth is 0)  	[MsgId: MMSG-26694]
+Action.c(30): To location "https://avatars.mds.yandex.net/get-yapic/0/0-0/islands-25"  	[MsgId: MMSG-26693]
+Action.c(30): Resource "https://avatars.mds.yandex.net/get-yapic/0/0-0/islands-25" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(30): web_submit_form("compose-send") highest severity level was "warning", 12346 body bytes, 2902 header bytes  	[MsgId: MMSG-26388]
+Action.c(43): web_reg_find started  	[MsgId: MMSG-26355]
+Action.c(43): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(46): web_url("inbox") started  	[MsgId: MMSG-26355]
+Action.c(46): Resource "https://yastatic.net/mail/pda2/1.33.351/pages/messages/_messages_lite.css" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(46): Resource "https://yandex.st/lego/_/X31pO5JJJKEifJ7sfvuf3mGeD_8.png" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(46): Found resource "https://upics.yandex.net/334026821/small" in HTML "https://mail.yandex.ru/lite/inbox?ids=&executed_action=message_send"  	[MsgId: MMSG-26659]
+Action.c(46): Resource "https://yastatic.net/mail/pda2/1.33.351/blocks/b-messages/message/b-messages__message_important.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(46): Resource "https://yastatic.net/mail/pda2/1.33.351/blocks/b-messages/message/b-messages__message_new.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(46): Resource "https://yastatic.net/mail/pda2/1.33.351/blocks/b-messages/message/b-messages__message_replied.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(46): Resource "https://yastatic.net/jquery/1.4.4/jquery.min.js" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(46): Resource "https://yastatic.net/mail/pda2/1.33.351/js/_lite.js" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(46): Resource "https://yastatic.net/mail/pda2/1.33.351/js/pages/_messages.js" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(46): Redirecting "https://upics.yandex.net/334026821/small" (redirection depth is 0)  	[MsgId: MMSG-26694]
+Action.c(46): To location "https://avatars.mds.yandex.net/get-yapic/0/0-0/islands-25"  	[MsgId: MMSG-26693]
+Action.c(46): Resource "https://avatars.mds.yandex.net/get-yapic/0/0-0/islands-25" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(46): Registered web_reg_find successful for "Text=Письмо отправлено" (count=2)  	[MsgId: MMSG-26364]
+Action.c(46): web_url("inbox") was successful, 7609 body bytes, 789 header bytes  	[MsgId: MMSG-26386]
+Action.c(54): Notify: Transaction "Отправка письма" ended with a "Pass" status (Duration: 2,0607 Wasted Time: 0,0051).
+Ending action Action.
+Ending iteration 5.
+Starting iteration 6.
+Notify: Next row for parameter SUBJECT = 1 [table  = SUBJECT].
+Notify: Getting new value for parameter 'SUBJECT': table = 'message.dat' column = '0' row = '1'.
+Notify: Next row for parameter MESSAGEBODY = 1 [table  = MESSAGEBODY].
+Notify: Getting new value for parameter 'MESSAGEBODY': table = 'message.dat' column = '1' row = '1'.
+Notify: Next row for parameter PASSWORD = 1 [table  = PASSWORD].
+Notify: Getting new value for parameter 'PASSWORD': table = 'log_n_pass.dat' column = '1' row = '1'.
+Starting action Action.
+Action.c(4): Notify: Transaction "Открытие формы для нового письма" started.
+Action.c(6): web_reg_find started  	[MsgId: MMSG-26355]
+Action.c(6): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(10): web_reg_save_param_ex started  	[MsgId: MMSG-26355]
+Action.c(10): Registering web_reg_save_param_ex was successful  	[MsgId: MMSG-26390]
+Action.c(18): web_url("retpath=inbox") started  	[MsgId: MMSG-26355]
+Action.c(18): Notify: Saving Parameter "LOGOUT_ID = 4372812371443617517".
+Action.c(18): Found resource "https://yastatic.net/mail/pda2/1.33.351/pages/compose/_compose_lite.css" in HTML "https://mail.yandex.ru/lite/compose/"  	[MsgId: MMSG-26659]
+Action.c(18): Found resource "https://yandex.st/lego/_/X31pO5JJJKEifJ7sfvuf3mGeD_8.png" in HTML "https://mail.yandex.ru/lite/compose/"  	[MsgId: MMSG-26659]
+Action.c(18): Found resource "https://upics.yandex.net/334026821/small" in HTML "https://mail.yandex.ru/lite/compose/"  	[MsgId: MMSG-26659]
+Action.c(18): Found resource "https://yastatic.net/mail/pda2/1.33.351/blocks/b-messages/message/b-messages__message_important.gif" in HTML "https://mail.yandex.ru/lite/compose/"  	[MsgId: MMSG-26659]
+Action.c(18): Found resource "https://yastatic.net/jquery/1.4.4/jquery.min.js" in HTML "https://mail.yandex.ru/lite/compose/"  	[MsgId: MMSG-26659]
+Action.c(18): Found resource "https://yastatic.net/mail/pda2/1.33.351/js/_lite.js" in HTML "https://mail.yandex.ru/lite/compose/"  	[MsgId: MMSG-26659]
+Action.c(18): Found resource "https://yastatic.net/mail/pda2/1.33.351/js/pages/_compose.js" in HTML "https://mail.yandex.ru/lite/compose/"  	[MsgId: MMSG-26659]
+Action.c(18): Redirecting "https://upics.yandex.net/334026821/small" (redirection depth is 0)  	[MsgId: MMSG-26694]
+Action.c(18): To location "https://avatars.mds.yandex.net/get-yapic/0/0-0/islands-25"  	[MsgId: MMSG-26693]
+Action.c(18): Registered web_reg_find successful for "Text=Новое письмо — Яндекс.Почта" (count=1)  	[MsgId: MMSG-26364]
+Action.c(18): web_url("retpath=inbox") was successful, 42165 body bytes, 3720 header bytes  	[MsgId: MMSG-26386]
+Action.c(26): Notify: Transaction "Открытие формы для нового письма" ended with a "Pass" status (Duration: 0,2310 Wasted Time: 0,0074).
+Action.c(28): Notify: Transaction "Отправка письма" started.
+Action.c(30): web_submit_form("compose-send") started  	[MsgId: MMSG-26355]
+Action.c(30): Notify: Parameter Substitution: parameter "LOGIN" =  "lrunnertest1@yandex.ru"
+Action.c(30): Notify: Parameter Substitution: parameter "SUBJECT" =  "HP LoadRunner: Let's Get Started"
+Action.c(30): Notify: Next row for parameter MESSAGEBODY = 1 [table  = MESSAGEBODY].
+Action.c(30): Notify: Parameter Substitution: parameter "MESSAGEBODY" =  "Our goal is to make your trial of LoadRunner a success. You have just gained access to one of the most powerful tools available to extract deep insights and end-to-end visibility into your system performance. The trial never expires and comes with 50 Virtual Users free."
+Action.c(30): Warning -26490: File name in a multipart submit is missing or empty. Using an empty file  	[MsgId: MWAR-26490]
+Action.c(30): Submitting form to "https://mail.yandex.ru/lite/compose-action.xml", Target Frame=""  	[MsgId: MMSG-27978]
+Action.c(30): Redirecting "https://mail.yandex.ru/lite/compose-action.xml" (redirection depth is 0)  	[MsgId: MMSG-26694]
+Action.c(30): To location "https://mail.yandex.ru/lite/inbox?ids=&executed_action=message_send"  	[MsgId: MMSG-26693]
+Action.c(30): Found resource "https://yastatic.net/mail/pda2/1.33.351/pages/messages/_messages_lite.css" in HTML "https://mail.yandex.ru/lite/inbox?ids=&executed_action=message_send"  	[MsgId: MMSG-26659]
+Action.c(30): Resource "https://yandex.st/lego/_/X31pO5JJJKEifJ7sfvuf3mGeD_8.png" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(30): Found resource "https://upics.yandex.net/334026821/small" in HTML "https://mail.yandex.ru/lite/inbox?ids=&executed_action=message_send"  	[MsgId: MMSG-26659]
+Action.c(30): Resource "https://yastatic.net/mail/pda2/1.33.351/blocks/b-messages/message/b-messages__message_important.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(30): Found resource "https://yastatic.net/mail/pda2/1.33.351/blocks/b-messages/message/b-messages__message_new.gif" in HTML "https://mail.yandex.ru/lite/inbox?ids=&executed_action=message_send"  	[MsgId: MMSG-26659]
+Action.c(30): Found resource "https://yastatic.net/mail/pda2/1.33.351/blocks/b-messages/message/b-messages__message_replied.gif" in HTML "https://mail.yandex.ru/lite/inbox?ids=&executed_action=message_send"  	[MsgId: MMSG-26659]
+Action.c(30): Resource "https://yastatic.net/jquery/1.4.4/jquery.min.js" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(30): Resource "https://yastatic.net/mail/pda2/1.33.351/js/_lite.js" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(30): Found resource "https://yastatic.net/mail/pda2/1.33.351/js/pages/_messages.js" in HTML "https://mail.yandex.ru/lite/inbox?ids=&executed_action=message_send"  	[MsgId: MMSG-26659]
+Action.c(30): Redirecting "https://upics.yandex.net/334026821/small" (redirection depth is 0)  	[MsgId: MMSG-26694]
+Action.c(30): To location "https://avatars.mds.yandex.net/get-yapic/0/0-0/islands-25"  	[MsgId: MMSG-26693]
+Action.c(30): Resource "https://avatars.mds.yandex.net/get-yapic/0/0-0/islands-25" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(30): web_submit_form("compose-send") highest severity level was "warning", 12418 body bytes, 2902 header bytes  	[MsgId: MMSG-26388]
+Action.c(43): web_reg_find started  	[MsgId: MMSG-26355]
+Action.c(43): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(46): web_url("inbox") started  	[MsgId: MMSG-26355]
+Action.c(46): Resource "https://yastatic.net/mail/pda2/1.33.351/pages/messages/_messages_lite.css" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(46): Resource "https://yandex.st/lego/_/X31pO5JJJKEifJ7sfvuf3mGeD_8.png" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(46): Found resource "https://upics.yandex.net/334026821/small" in HTML "https://mail.yandex.ru/lite/inbox?ids=&executed_action=message_send"  	[MsgId: MMSG-26659]
+Action.c(46): Resource "https://yastatic.net/mail/pda2/1.33.351/blocks/b-messages/message/b-messages__message_important.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(46): Resource "https://yastatic.net/mail/pda2/1.33.351/blocks/b-messages/message/b-messages__message_new.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(46): Resource "https://yastatic.net/mail/pda2/1.33.351/blocks/b-messages/message/b-messages__message_replied.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(46): Resource "https://yastatic.net/jquery/1.4.4/jquery.min.js" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(46): Resource "https://yastatic.net/mail/pda2/1.33.351/js/_lite.js" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(46): Resource "https://yastatic.net/mail/pda2/1.33.351/js/pages/_messages.js" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(46): Redirecting "https://upics.yandex.net/334026821/small" (redirection depth is 0)  	[MsgId: MMSG-26694]
+Action.c(46): To location "https://avatars.mds.yandex.net/get-yapic/0/0-0/islands-25"  	[MsgId: MMSG-26693]
+Action.c(46): Resource "https://avatars.mds.yandex.net/get-yapic/0/0-0/islands-25" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(46): Registered web_reg_find successful for "Text=Письмо отправлено" (count=2)  	[MsgId: MMSG-26364]
+Action.c(46): web_url("inbox") was successful, 7665 body bytes, 789 header bytes  	[MsgId: MMSG-26386]
+Action.c(54): Notify: Transaction "Отправка письма" ended with a "Pass" status (Duration: 1,0091 Wasted Time: 0,0053).
+Ending action Action.
+Ending iteration 6.
 Ending Vuser...
 Starting action vuser_end.
 vuser_end.c(3): Notify: Transaction "Выход" started.
 vuser_end.c(5): web_reg_find started  	[MsgId: MMSG-26355]
 vuser_end.c(5): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
 vuser_end.c(8): web_url("passport_2") started  	[MsgId: MMSG-26355]
-vuser_end.c(8): Notify: Parameter Substitution: parameter "LOGOUT_ID" =  "5461110501443608139"
-vuser_end.c(8): Redirecting "https://passport.yandex.ru/passport?mode=logout&yu=5461110501443608139" (redirection depth is 0)  	[MsgId: MMSG-26694]
-vuser_end.c(8): To location "https://pass.yandex.ru/logout?retpath=http%3A%2F%2Fwww.yandex.ru%2F%3Fncrnd%3D444395&yu=5461110501443608139&ncrnd=162076"  	[MsgId: MMSG-26693]
-vuser_end.c(8): Detected non-resource "http://www.yandex.ru/?ncrnd=4020" in "https://pass.yandex.ru/logout?retpath=http%3A%2F%2Fwww.yandex.ru%2F%3Fncrnd%3D444395&yu=5461110501443608139&ncrnd=162076"  	[MsgId: MMSG-26574]
-vuser_end.c(8): Redirecting "http://www.yandex.ru/?ncrnd=4020" (redirection depth is 0)  	[MsgId: MMSG-26694]
-vuser_end.c(8): To location "https://www.yandex.ru/?ncrnd=4020"  	[MsgId: MMSG-26693]
-vuser_end.c(8): Resource "https://yastatic.net/lego/_/La6qi18Z8LwgnZdsAr1qy1GwCwo.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
-vuser_end.c(8): Found resource "https://yabs.yandex.ru/count/1jjdlA_Oiqe40002gP0088w_PBjW1L6L0fi6QLg8k40Y1mUcX0cAjUsV0mEg0gMl5EW5aRpGIMG6auKDGQxo4CDVb3Rq80Mn0Rlxv3dR4J6Sl0J1__________yFnOyFql__________3zF__________mzu3G00" in HTML "https://www.yandex.ru/?ncrnd=4020"  	[MsgId: MMSG-26659]
-vuser_end.c(8): Found resource "https://yabs.yandex.ru/count/1jjdlEpjPVm40002gP0088w_PBjW1L6L2fi1ROw8lV4X1mUcX0cAlzM9WmAg0wMhEre5aRpGIMG6auKDGQxo4CDVb3Rq80Mn0Rlxv3dR4J6Sl0J1__________yFnOyFql__________3zF__________mzu3G00" in HTML "https://www.yandex.ru/?ncrnd=4020"  	[MsgId: MMSG-26659]
-vuser_end.c(8): Resource "https://home.yastatic.net/morda-logo/i/afisha_color_62.png" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
-vuser_end.c(8): Resource "https://yastatic.net/jquery/1.8.3/jquery.min.js" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
-vuser_end.c(8): Resource "https://yastatic.net/www/2.524/rapido/pages/big/_big.ru.templates.js" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
-vuser_end.c(8): Resource "https://yastatic.net/www/_/7/g/w0Fd3FjBXo7Wvs6oJiqfeSEr0.js" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
-vuser_end.c(8): Resource "https://mc.yandex.ru/metrika/watch.js" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
-vuser_end.c(8): Found resource "https://yabs.yandex.ru/count/1jjdlBDHWzu40000Zhzaks05KP6yq4ba1fE53Qxo4CDVb3Rq80Mx--Gvsn4ndBm4mV__________3tu5=USoiEfK2cmPfMegrxPy30wMl5EW5YBX08WS7feG9iG75Zm_I__________yFq___________3ti6=w01tovKAcm5jZeg_rOc30gMhEre5YBtn8GS7feG9iG75Zm_I__________yFq___________3ti6?wmode=0" in HTML "https://www.yandex.ru/?ncrnd=4020"  	[MsgId: MMSG-26659]
-vuser_end.c(8): Redirecting "https://yabs.yandex.ru/count/1jjdlEpjPVm40002gP0088w_PBjW1L6L2fi1ROw8lV4X1mUcX0cAlzM9WmAg0wMhEre5aRpGIMG6auKDGQxo4CDVb3Rq80Mn0Rlxv3dR4J6Sl0J1__________yFnOyFql__________3zF__________mzu3G00" (redirection depth is 0)  	[MsgId: MMSG-26694]
+vuser_end.c(8): Notify: Parameter Substitution: parameter "LOGOUT_ID" =  "4372812371443617517"
+vuser_end.c(8): Redirecting "https://passport.yandex.ru/passport?mode=logout&yu=4372812371443617517" (redirection depth is 0)  	[MsgId: MMSG-26694]
+vuser_end.c(8): To location "https://pass.yandex.ru/logout?retpath=http%3A%2F%2Fwww.yandex.ru%2F%3Fncrnd%3D919284&yu=4372812371443617517&ncrnd=748914"  	[MsgId: MMSG-26693]
+vuser_end.c(8): Detected non-resource "http://www.yandex.ru/?ncrnd=9962" in "https://pass.yandex.ru/logout?retpath=http%3A%2F%2Fwww.yandex.ru%2F%3Fncrnd%3D919284&yu=4372812371443617517&ncrnd=748914"  	[MsgId: MMSG-26574]
+vuser_end.c(8): Redirecting "http://www.yandex.ru/?ncrnd=9962" (redirection depth is 0)  	[MsgId: MMSG-26694]
+vuser_end.c(8): To location "https://www.yandex.ru/?ncrnd=9962"  	[MsgId: MMSG-26693]
+vuser_end.c(8): Found resource "https://yastatic.net/lego/_/La6qi18Z8LwgnZdsAr1qy1GwCwo.gif" in HTML "https://www.yandex.ru/?ncrnd=9962"  	[MsgId: MMSG-26659]
+vuser_end.c(8): Found resource "https://yabs.yandex.ru/count/7a_0TEJfs4O40002gP0088wxhxrW1L6L0fi6QLg8lzWX1mUcX0cAksXJ4mEg0gMWLzO4aRpGIMG6auKDGQxt6jWpBsRs80Mn0RlzxaXLy9hroWF1__________yFnOyFql__________3zF__________mzu3G00" in HTML "https://www.yandex.ru/?ncrnd=9962"  	[MsgId: MMSG-26659]
+vuser_end.c(8): Found resource "https://yabs.yandex.ru/count/7a_0T2KXUUS40002gP0088wxhxrW1L6L2fi1ROw8lV4X1mUcX0cAlzM9WmAg0wMhEre5aRpGIMG6auKDGQxt6jWpBsRs80Mn0RlzxaXLy9hroWF1__________yFnOyFql__________3zF__________mzu3G00" in HTML "https://www.yandex.ru/?ncrnd=9962"  	[MsgId: MMSG-26659]
+vuser_end.c(8): Found resource "https://home.yastatic.net/morda-logo/i/afisha_color_62.png" in HTML "https://www.yandex.ru/?ncrnd=9962"  	[MsgId: MMSG-26659]
+vuser_end.c(8): Found resource "https://yastatic.net/jquery/1.8.3/jquery.min.js" in HTML "https://www.yandex.ru/?ncrnd=9962"  	[MsgId: MMSG-26659]
+vuser_end.c(8): Found resource "https://yastatic.net/www/2.524/rapido/pages/big/_big.ru.templates.js" in HTML "https://www.yandex.ru/?ncrnd=9962"  	[MsgId: MMSG-26659]
+vuser_end.c(8): Found resource "https://yastatic.net/www/_/7/g/w0Fd3FjBXo7Wvs6oJiqfeSEr0.js" in HTML "https://www.yandex.ru/?ncrnd=9962"  	[MsgId: MMSG-26659]
+vuser_end.c(8): Found resource "https://mc.yandex.ru/metrika/watch.js" in HTML "https://www.yandex.ru/?ncrnd=9962"  	[MsgId: MMSG-26659]
+vuser_end.c(8): Found resource "https://yabs.yandex.ru/count/7a_0T3DIdOi40000ZhkllM05KP6yq4ba1fE53Qxt6jWpBsRs80Mx_Uv8LV2QzSe3mV__________3tu5=Np41LvK2cmPfMegxQ5CJ0wMWLzO4YB_O8GS7feG9iG75Zm_I__________yFq___________3ti6=FCbUu9KAcm5jZeg_rOc30gMhEre5YBtn8GS7feG9iG75Zm_I__________yFq___________3ti6?wmode=0" in HTML "https://www.yandex.ru/?ncrnd=9962"  	[MsgId: MMSG-26659]
+vuser_end.c(8): Redirecting "https://yabs.yandex.ru/count/7a_0TEJfs4O40002gP0088wxhxrW1L6L0fi6QLg8lzWX1mUcX0cAksXJ4mEg0gMWLzO4aRpGIMG6auKDGQxt6jWpBsRs80Mn0RlzxaXLy9hroWF1__________yFnOyFql__________3zF__________mzu3G00" (redirection depth is 0)  	[MsgId: MMSG-26694]
+vuser_end.c(8): To location "https://yabs.yandex.ru/resource/CNQFYjt7nmId0Iot3YY61k_banana_20141031_plane.png"  	[MsgId: MMSG-26693]
+vuser_end.c(8): Redirecting "https://yabs.yandex.ru/count/7a_0T2KXUUS40002gP0088wxhxrW1L6L2fi1ROw8lV4X1mUcX0cAlzM9WmAg0wMhEre5aRpGIMG6auKDGQxt6jWpBsRs80Mn0RlzxaXLy9hroWF1__________yFnOyFql__________3zF__________mzu3G00" (redirection depth is 0)  	[MsgId: MMSG-26694]
 vuser_end.c(8): To location "https://yabs.yandex.ru/resource/CXbACNS1xLfuwhc_IbTVP5_banana_20141031_60-60.png"  	[MsgId: MMSG-26693]
-vuser_end.c(8): Resource "https://yabs.yandex.ru/resource/CXbACNS1xLfuwhc_IbTVP5_banana_20141031_60-60.png" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
-vuser_end.c(8): Redirecting "https://yabs.yandex.ru/count/1jjdlA_Oiqe40002gP0088w_PBjW1L6L0fi6QLg8k40Y1mUcX0cAjUsV0mEg0gMl5EW5aRpGIMG6auKDGQxo4CDVb3Rq80Mn0Rlxv3dR4J6Sl0J1__________yFnOyFql__________3zF__________mzu3G00" (redirection depth is 0)  	[MsgId: MMSG-26694]
-vuser_end.c(8): To location "https://yabs.yandex.ru/resource/DovfIPG_RZDq8bTlkI3bKE_banana_20141031_superman0.png"  	[MsgId: MMSG-26693]
 vuser_end.c(8): Registered web_reg_find successful for "Text=Почта" (count=3)  	[MsgId: MMSG-26364]
-vuser_end.c(8): web_url("passport_2") was successful, 87205 body bytes, 4656 header bytes  	[MsgId: MMSG-26386]
-vuser_end.c(16): Notify: Transaction "Выход" ended with a "Pass" status (Duration: 0,4840 Wasted Time: 0,0116).
+vuser_end.c(8): web_url("passport_2") was successful, 264454 body bytes, 7483 header bytes  	[MsgId: MMSG-26386]
+vuser_end.c(16): Notify: Transaction "Выход" ended with a "Pass" status (Duration: 0,4959 Wasted Time: 0,0224).
 Ending action vuser_end.
 Vuser Terminated.

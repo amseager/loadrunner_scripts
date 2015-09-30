@@ -52,8 +52,8 @@ Order="¬ход на сайт__*delimiter*__ќткрытие страницы авторизации__*delimiter*__јв
 [StateManagement]
 LastReplayStatus=1
 [ActiveReplay]
-LastReplayedRunName=result1
-ActiveRunName=result1
+LastReplayedRunName=
+ActiveRunName=
 [Transactions]
 "¬ход на сайт"=
 "ќткрытие страницы авторизации"=

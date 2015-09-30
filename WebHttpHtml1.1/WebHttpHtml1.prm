@@ -9,7 +9,7 @@ Type="Table"
 value_for_each_vuser=""
 OriginalValue="lrunnertest1"
 auto_allocate_block_size="1"
-SelectNextRow="Unique"
+SelectNextRow="Sequential"
 StartRow="1"
 OutOfRangePolicy="ContinueWithLast"
 [parameter:PASSWORD]
